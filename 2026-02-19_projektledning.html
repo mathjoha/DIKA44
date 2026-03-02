@@ -554,6 +554,45 @@ Mathias Johansson
         ]
       });
     </script>
+    <style>
+    .reveal .home-button {
+      position: fixed;
+      top: 8px;
+      left: 8px;
+      z-index: 40;
+      font-size: 24px;
+      line-height: 1;
+      color: #B1AA9F;
+      text-decoration: none;
+      opacity: 0.6;
+      transition: opacity 0.2s, color 0.2s;
+      pointer-events: auto;
+    }
+    .reveal .home-button:hover {
+      opacity: 1;
+      color: #894E11;
+    }
+    </style>
+    <script>
+    // Wait for Reveal.js to be ready, then inject into the controls layer
+    (function() {
+      function addHomeButton() {
+        var reveal = document.querySelector(".reveal");
+        if (!reveal) return;
+        var btn = document.createElement("a");
+        btn.href = "index.html";
+        btn.className = "home-button";
+        btn.title = "Tillbaka till startsidan";
+        btn.textContent = "\u2302";
+        reveal.appendChild(btn);
+      }
+      if (document.readyState === "loading") {
+        document.addEventListener("DOMContentLoaded", addHomeButton);
+      } else {
+        addHomeButton();
+      }
+    })();
+    </script>
     <script id="quarto-html-after-body" type="application/javascript">
       window.document.addEventListener("DOMContentLoaded", function (event) {
         const tabsets =  window.document.querySelectorAll(".panel-tabset-tabby")

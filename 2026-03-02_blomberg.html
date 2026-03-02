@@ -1,0 +1,1477 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-html/tabby.min.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/light-border.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-ea385d0e468b0dd5ea5bf0780b1290d9.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+  <meta name="generator" content="quarto-1.7.33">
+
+  <meta name="author" content="Mathias Johansson">
+  <title>DIKA44 – Projektledning à la Blomberg</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="site_libs/revealjs/dist/reset.css">
+  <link rel="stylesheet" href="site_libs/revealjs/dist/reveal.css">
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+      vertical-align: middle;
+    }
+  </style>
+  <link rel="stylesheet" href="site_libs/revealjs/dist/theme/quarto-fd9091513a8b1a8653cf4ad83c1cb5a0.css">
+  <link href="site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
+  <link href="site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
+  <link href="site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
+  <link href="site_libs/revealjs/plugin/quarto-support/footer.css" rel="stylesheet">
+  <style type="text/css">
+    .reveal div.sourceCode {
+      margin: 0;
+      overflow: auto;
+    }
+    .reveal div.hanging-indent {
+      margin-left: 1em;
+      text-indent: -1em;
+    }
+    .reveal .slide:not(.center) {
+      height: 100%;
+    }
+    .reveal .slide.scrollable {
+      overflow-y: auto;
+    }
+    .reveal .footnotes {
+      height: 100%;
+      overflow-y: auto;
+    }
+    .reveal .slide .absolute {
+      position: absolute;
+      display: block;
+    }
+    .reveal .footnotes ol {
+      counter-reset: ol;
+      list-style-type: none; 
+      margin-left: 0;
+    }
+    .reveal .footnotes ol li:before {
+      counter-increment: ol;
+      content: counter(ol) ". "; 
+    }
+    .reveal .footnotes ol li > p:first-child {
+      display: inline-block;
+    }
+    .reveal .slide ul,
+    .reveal .slide ol {
+      margin-bottom: 0.5em;
+    }
+    .reveal .slide ul li,
+    .reveal .slide ol li {
+      margin-top: 0.4em;
+      margin-bottom: 0.2em;
+    }
+    .reveal .slide ul[role="tablist"] li {
+      margin-bottom: 0;
+    }
+    .reveal .slide ul li > *:first-child,
+    .reveal .slide ol li > *:first-child {
+      margin-block-start: 0;
+    }
+    .reveal .slide ul li > *:last-child,
+    .reveal .slide ol li > *:last-child {
+      margin-block-end: 0;
+    }
+    .reveal .slide .columns:nth-child(3) {
+      margin-block-start: 0.8em;
+    }
+    .reveal blockquote {
+      box-shadow: none;
+    }
+    .reveal .tippy-content>* {
+      margin-top: 0.2em;
+      margin-bottom: 0.7em;
+    }
+    .reveal .tippy-content>*:last-child {
+      margin-bottom: 0.2em;
+    }
+    .reveal .slide > img.stretch.quarto-figure-center,
+    .reveal .slide > img.r-stretch.quarto-figure-center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto; 
+    }
+    .reveal .slide > img.stretch.quarto-figure-left,
+    .reveal .slide > img.r-stretch.quarto-figure-left  {
+      display: block;
+      margin-left: 0;
+      margin-right: auto; 
+    }
+    .reveal .slide > img.stretch.quarto-figure-right,
+    .reveal .slide > img.r-stretch.quarto-figure-right  {
+      display: block;
+      margin-left: auto;
+      margin-right: 0; 
+    }
+  </style>
+</head>
+<body class="quarto-light">
+  <div class="reveal">
+    <div class="slides">
+
+<section id="title-slide" class="quarto-title-block center">
+  <h1 class="title">Projektledning à la Blomberg</h1>
+  <p class="subtitle"></p><p>DIKA44</p>
+<div class="small-attribution">
+<p>Anpassad från Daniel Ericsson, 2024</p>
+</div><p></p>
+
+<div class="quarto-title-authors">
+<div class="quarto-title-author">
+<div class="quarto-title-author-name">
+Mathias Johansson 
+</div>
+</div>
+</div>
+
+</section>
+<section id="dagens-agenda" class="slide level2">
+<h2>Dagens agenda</h2>
+<ul>
+<li class="fragment">Presentera fyra perspektiv på organisation (och ledarskap) utifrån</li>
+<li class="fragment">Jesper Blombergs bok ”Management”
+<ul>
+<li class="fragment">med ett fokus på projekt</li>
+<li class="fragment">och med ett genusperspektiv på de fyra perspektiven</li>
+</ul></li>
+</ul>
+</section>
+<section id="management-en-utgångspunkt" class="slide level2">
+<h2>Management: En utgångspunkt</h2>
+<div class="columns">
+<div class="column">
+<ul>
+<li class="fragment"><em>Problemet</em>
+<ul>
+<li class="fragment">Att få människor att tillsammans åstadkomma det som de annars inte skulle åstadkomma…</li>
+</ul></li>
+<li class="fragment"><em>Lösningen</em>
+<ul>
+<li class="fragment">Samordnad handling</li>
+</ul></li>
+</ul>
+</div><div class="column">
+<ul>
+<li class="fragment"><em>Organisation</em>
+<ul>
+<li class="fragment">Alla de arenor i samhället där organisering sker i en tydligt avgränsad form.</li>
+</ul></li>
+<li class="fragment"><em>Ledarskap</em>
+<ul>
+<li class="fragment">Alla de krafter som på ett eller annat sätt bidrar till att människor organiserar sig.</li>
+</ul></li>
+</ul>
+</div></div>
+<!-- end columns -->
+</section>
+<section id="några-olika-organisations-typer" class="slide level2">
+<h2>Några olika organisations-”typer”</h2>
+<ul>
+<li class="fragment">Och så projekt förstås!</li>
+</ul>
+
+<img data-src="images/blomberg/slide05_img1.png" class="r-stretch"></section>
+<section id="bokens-filosofiska-teoretiska-kärna" class="slide level2">
+<h2>Bokens filosofiska &amp; teoretiska ”kärna”</h2>
+<ul>
+<li class="fragment">Perspektivseende</li>
+<li class="fragment">Perspektivväxling</li>
+</ul>
+</section>
+<section id="kunskap-vad-vi-vet-och-vad-vi-uppfattar-är-alltid-relativt-ett-perspektiv" class="slide level2">
+<h2>Kunskap: Vad vi vet och vad vi uppfattar är alltid relativt ett perspektiv</h2>
+<ul>
+<li class="fragment">Vad vi uppfattar som ett problem är beroende av vårt perspektiv</li>
+<li class="fragment">Om vi byter perspektiv kan ett problem till och med omvandlas till en lösning</li>
+<li class="fragment">Perspektiv är nödvändiga för att vi ska kunna se något överhuvudtaget, men de förblindar oss också</li>
+<li class="fragment">För att möjliggöra för oss att byta perspektiv/inte fastna i ett perspektiv, behöver vi hjälp</li>
+<li class="fragment">Teorier och teoretiska perspektiv utgör en sådan hjälp</li>
+</ul>
+</section>
+<section id="fyra-perspektiv-på-organisation-och-ledarskap" class="slide level2">
+<h2>Fyra perspektiv på organisation och ledarskap</h2>
+<svg viewbox="0 0 700 340" xmlns="http://www.w3.org/2000/svg" style="max-width:680px;margin:0 auto;display:block;">
+  <!-- Strukturperspektivet -->
+  <rect x="40" y="20" width="360" height="55" rx="4" fill="#2196F3"></rect>
+  <text x="55" y="42" font-family="Helvetica Neue,sans-serif" font-size="18" font-weight="600" fill="#fff">Strukturperspektivet</text>
+  <text x="55" y="62" font-family="Helvetica Neue,sans-serif" font-size="13" fill="#fff">(rationella system &amp; formella processer)</text>
+
+  <!-- HR-perspektivet -->
+  <rect x="40" y="85" width="360" height="55" rx="4" fill="#B71C1C"></rect>
+  <text x="55" y="107" font-family="Helvetica Neue,sans-serif" font-size="18" font-weight="600" fill="#fff">HR-perspektivet</text>
+  <text x="55" y="127" font-family="Helvetica Neue,sans-serif" font-size="13" fill="#fff">(mänskliga resurser &amp; motivation)</text>
+
+  <!-- Right bracket for "Moderna" -->
+  <path d="M410,20 Q425,20 425,30 L425,62 Q425,72 435,72 Q425,72 425,82 L425,130 Q425,140 410,140" fill="none" stroke="#2F2B28" stroke-width="1.5"></path>
+  <text x="445" y="65" font-family="Helvetica Neue,sans-serif" font-size="16" font-weight="600" fill="#2F2B28">"Moderna"</text>
+  <text x="445" y="85" font-family="Helvetica Neue,sans-serif" font-size="13" fill="#2F2B28">• Normativa</text>
+  <text x="445" y="103" font-family="Helvetica Neue,sans-serif" font-size="13" fill="#2F2B28">• Funktionalism</text>
+
+  <!-- Maktperspektivet -->
+  <rect x="40" y="180" width="360" height="55" rx="4" fill="#F9A825"></rect>
+  <text x="55" y="202" font-family="Helvetica Neue,sans-serif" font-size="18" font-weight="600" fill="#fff">Maktperspektivet</text>
+  <text x="55" y="222" font-family="Helvetica Neue,sans-serif" font-size="13" fill="#fff">(konflikt, politik &amp; förhandling)</text>
+
+  <!-- Symbolperspektivet -->
+  <rect x="40" y="245" width="360" height="55" rx="4" fill="#F5F0E0" stroke="#B1AA9F" stroke-width="1"></rect>
+  <text x="55" y="267" font-family="Helvetica Neue,sans-serif" font-size="18" font-weight="600" fill="#2F2B28">Symbolperspektivet</text>
+  <text x="55" y="287" font-family="Helvetica Neue,sans-serif" font-size="13" fill="#888">(mening, identitet, kultur &amp; normer)</text>
+
+  <!-- Right bracket for "Nutida" -->
+  <path d="M410,180 Q425,180 425,190 L425,222 Q425,232 435,232 Q425,232 425,242 L425,290 Q425,300 410,300" fill="none" stroke="#2F2B28" stroke-width="1.5"></path>
+  <text x="445" y="225" font-family="Helvetica Neue,sans-serif" font-size="16" font-weight="600" fill="#2F2B28">"Nutida"</text>
+  <text x="445" y="245" font-family="Helvetica Neue,sans-serif" font-size="13" fill="#2F2B28">• Deskriptiva, kritiska</text>
+  <text x="445" y="263" font-family="Helvetica Neue,sans-serif" font-size="13" fill="#2F2B28">• Relativism</text>
+</svg>
+</section>
+<section id="framgångsrik-organisering-enligt-strukturperspektivet" class="slide level2">
+<h2>Framgångsrik organisering enligt strukturperspektivet</h2>
+
+<img data-src="images/blomberg/slide10_img1.png" class="r-stretch"></section>
+<section id="framgångsrik-organisering-enligt-hr--perspektivet" class="slide level2">
+<h2>Framgångsrik organisering enligt HR- perspektivet</h2>
+
+<img data-src="images/blomberg/slide11_img1.png" class="r-stretch"></section>
+<section id="framgångsrik-organisering-enligt-maktperspektivet" class="slide level2">
+<h2>Framgångsrik organisering enligt maktperspektivet</h2>
+<ul>
+<li class="fragment">Page 12</li>
+</ul>
+<p><img data-src="images/blomberg/slide12_img1.png"> <img data-src="images/blomberg/slide12_img2.png"></p>
+</section>
+<section id="framgångsrik-organisering-enligt-symbolperspektivet" class="slide level2">
+<h2>Framgångsrik organisering enligt symbolperspektivet</h2>
+
+<img data-src="images/blomberg/slide13_img1.png" class="r-stretch"></section>
+<section id="perspektivväxling" class="slide level2">
+<h2>Perspektivväxling</h2>
+<ul>
+<li class="fragment">Ju fler perspektiv vi har att tillgå, desto bättre!
+<ul>
+<li class="fragment">Bättre förståelse</li>
+<li class="fragment">En utökad tanke- och handlingsrepertoar</li>
+<li class="fragment">Bättre beslut</li>
+<li class="fragment">Bättre agerande</li>
+</ul></li>
+</ul>
+</section>
+<section id="analysstrategi" class="slide level2">
+<h2>Analysstrategi</h2>
+<ul>
+<li class="fragment">Att ställa det som empiriskt ”är”…</li>
+<li class="fragment">… mot det som teoretiskt ”bör” vara</li>
+</ul>
+</section>
+<section class="slide level2">
+
+</section>
+<section>
+<section id="strukturperspektivet" class="title-slide slide level1 center">
+<h1>STRUKTURPERSPEKTIVET</h1>
+
+</section>
+<section id="är-vs-bör-frågor-utifrån-ett-strukturperspektiv" class="slide level2">
+<h2>Är vs bör-frågor utifrån ett strukturperspektiv</h2>
+<ol type="1">
+<li class="fragment">Vilken struktur har organisationen?</li>
+<li class="fragment">Vilken struktur bör organisationen ha?</li>
+</ol>
+<ul>
+<li class="fragment"><ol type="1">
+<li class="fragment">vs 2.: Omstrukturering?</li>
+</ol></li>
+</ul>
+</section>
+<section id="det-strukturella-problemet-samordnad-handling" class="slide level2">
+<h2>”Det strukturella problemet”: Samordnad handling</h2>
+<ul>
+<li class="fragment">Arbetsdelning - specialisering - koordinering –
+<ul>
+<li class="fragment">Vem ska göra vad? A gör a; B gör b; C gör c…</li>
+<li class="fragment">Hur förhålla A/a till B/b till C/c…?</li>
+<li class="fragment">Hur koordinera A/a till B/B till C/c…?</li>
+</ul></li>
+<li class="fragment">Organisation från grekiskans organon, ”verktyg”, ”redskap”</li>
+<li class="fragment">Chef/ledaren som ”redskapshanterare”</li>
+</ul>
+</section>
+<section id="teoretiska-föregångareströmningar" class="slide level2">
+<h2>Teoretiska föregångare/strömningar</h2>
+<ul>
+<li class="fragment">Organisationer i industriell utveckling
+<ul>
+<li class="fragment">Privata företag och statlig administration</li>
+</ul></li>
+<li class="fragment">Sociologi
+<ul>
+<li class="fragment">Max Weber</li>
+</ul></li>
+<li class="fragment">Klassisk managementteori
+<ul>
+<li class="fragment">Scientific management; Frederick W Taylor, Henri Fayol</li>
+</ul></li>
+</ul>
+</section>
+<section id="den-byråkratiska-skolan" class="slide level2">
+<h2>Den byråkratiska skolan</h2>
+<ul>
+<li class="fragment">Max Weber, sociolog, lanserade idéer om den byråkratiska</li>
+<li class="fragment">”idealtypen”
+<ul>
+<li class="fragment">Rationell auktoritet (opartisk, objektiv) framför karisma och tradition</li>
+<li class="fragment">Hierarki med strikt ansvarsfördelning</li>
+<li class="fragment">Styrning genom regler och procedurer</li>
+<li class="fragment">Reglerad befordringsgång, meritokrati</li>
+</ul></li>
+</ul>
+</section>
+<section id="scientific-management" class="slide level2">
+<h2>Scientific Management</h2>
+<ul>
+<li class="fragment">Frederick W. Taylor, ingenjör och industriledare</li>
+<li class="fragment">The Principles of Scientific Management (1911)
+<ul>
+<li class="fragment">Hantverksmässiga ’tumregler’ inte tillräckligt effektiva</li>
+<li class="fragment">Funktionell arbetsdelning - ’huvudet i topp och fötterna på marken’</li>
+<li class="fragment">Specialisering och övervakning av arbetsprocesser</li>
+<li class="fragment">Tidsstudiemän</li>
+<li class="fragment">”Rätt man på rätt plats”</li>
+</ul></li>
+</ul>
+</section>
+<section id="den-administrativa-skolan" class="slide level2">
+<h2>Den administrativa skolan</h2>
+<ul>
+<li class="fragment">Henri Fayol, ingenjör och industriledare: General and Industrial</li>
+<li class="fragment">Management (1919)
+<ul>
+<li class="fragment">14 principer för rationell administration, bl a</li>
+<li class="fragment">enhetlig befälsordning</li>
+<li class="fragment">ansvar och auktoritet</li>
+<li class="fragment">centralisering</li>
+<li class="fragment">organisationsscheman</li>
+<li class="fragment">löpande avrapportering</li>
+</ul></li>
+</ul>
+</section>
+<section id="grundläggande-antaganden-1" class="slide level2">
+<h2>Grundläggande antaganden 1</h2>
+<ul>
+<li class="fragment">Organisationer existerar för att man skall kunna nå uppställda mål.</li>
+<li class="fragment">Organisationen förbättrar effektivitet och utfall genom specialisering och tydlig arbetsfördelning.</li>
+<li class="fragment">Lämpliga samordnings- och kontrollformer säkerställer att olika individers och enheters ansträngningar kopplas samman.</li>
+</ul>
+</section>
+<section id="grundläggande-antaganden-2" class="slide level2">
+<h2>Grundläggande antaganden 2</h2>
+<ul>
+<li class="fragment">Organisationer fungerar bäst då rationaliteten ges företräde framför personliga preferenser och yttre tryck.</li>
+<li class="fragment">Strukturerna måste utformas på ett sådant sätt att de passar organisationens villkor (exempelvis vad gäller mål, teknologi, arbetsstyrka och omgivning).</li>
+<li class="fragment">Problem och försämrade prestationer uppstår till följd av strukturella svagheter och kan åtgärdas med hjälp av analys och omstrukturering.</li>
+</ul>
+</section>
+<section id="tre-grundläggande-aspekter" class="slide level2">
+<h2>Tre grundläggande aspekter</h2>
+<ul>
+<li class="fragment"><p>Rationell…</p></li>
+<li class="fragment"><p>… arbetsdelning (tydlig roll- och ansvarsfördelning) och</p></li>
+<li class="fragment"><p>samordning (tydliga kommunikations- och beslutsvägar)</p></li>
+<li class="fragment"><p>… ger inre och yttre effektivitet</p></li>
+<li class="fragment"><p>Inre effektivitet - att göra saker rätt (efficiency)</p></li>
+<li class="fragment"><p>Yttre effektivitet - att göra rätt saker (effectiveness)</p></li>
+</ul>
+</section>
+<section id="arbetsdelning" class="slide level2">
+<h2>Arbetsdelning</h2>
+<p>…kan ske efter:</p>
+<ul>
+<li class="fragment">Funktion (kunskaper och färdigheter)</li>
+<li class="fragment">Tid</li>
+<li class="fragment">Produkt/marknad</li>
+<li class="fragment">Klient/kund</li>
+<li class="fragment">Plats/geografi</li>
+<li class="fragment">Process</li>
+</ul>
+</section>
+<section id="samordning-i" class="slide level2">
+<h2>Samordning I</h2>
+<p>… kan ske vertikalt genom</p>
+<ul>
+<li class="fragment">Makt/hierarkisk position</li>
+<li class="fragment">Regler och policies</li>
+<li class="fragment">Planerings- och kontrollsystem</li>
+</ul>
+</section>
+<section id="samordning-ii" class="slide level2">
+<h2>Samordning II</h2>
+<p>… kan ske lateralt genom</p>
+<ul>
+<li class="fragment">Möten</li>
+<li class="fragment">Projektgrupper</li>
+<li class="fragment">Samordningsroller</li>
+<li class="fragment">Matrisstrukturer</li>
+<li class="fragment">Nätverk</li>
+</ul>
+</section>
+<section id="strukturella-konfigurationer-h-mintzberg" class="slide level2">
+<h2>Strukturella konfigurationer, H Mintzberg</h2>
+<div style="position:relative;max-width:546px;margin:0 auto;">
+  <img src="images/blomberg/slide30_img1.png" style="width:100%;display:block;">
+  <span style="position:absolute;top:8%;left:50%;transform:translateX(-50%);font-family:'Helvetica Neue',sans-serif;font-size:0.85em;color:#2F2B28;">Strategisk topp</span>
+  <span style="position:absolute;top:42%;left:16%;transform:translateX(-50%);font-family:'Helvetica Neue',sans-serif;font-size:0.85em;color:#2F2B28;">Teknostruktur</span>
+  <span style="position:absolute;top:42%;right:0%;transform:translateX(-16%);font-family:'Helvetica Neue',sans-serif;font-size:0.85em;color:#2F2B28;">Stödfunktion</span>
+  <span style="position:absolute;top:52%;left:50%;transform:translateX(-50%);font-family:'Helvetica Neue',sans-serif;font-size:0.85em;color:#2F2B28;">Mellanchefer</span>
+  <span style="position:absolute;top:82%;left:50%;transform:translateX(-50%);font-family:'Helvetica Neue',sans-serif;font-size:0.85em;color:#2F2B28;">Operativ kärna</span>
+</div>
+</section>
+<section id="enkel-struktur" class="slide level2">
+<h2>Enkel struktur</h2>
+<ul>
+<li class="fragment">Struktur: Enkel</li>
+<li class="fragment">Typ av org.: Små företag</li>
+<li class="fragment">Styrkor: Flexibel</li>
+<li class="fragment">Svagheter: Obenägenhet till förändring</li>
+</ul>
+
+<img data-src="images/blomberg/slide31_img1.png" class="r-stretch"></section>
+<section id="maskinbyråkrati" class="slide level2">
+<h2>Maskinbyråkrati</h2>
+<ul>
+<li class="fragment">Struktur: Formaliserade och specialiserade roller/rutiner</li>
+<li class="fragment">Typ av org: Producenter av standardiserade varor/tjänster</li>
+<li class="fragment">Styrkor: Främjar inre effektivitet, enhetlighet och förutsägbarhet</li>
+<li class="fragment">Svagheter: Trögrörlig</li>
+</ul>
+
+<img data-src="images/blomberg/slide32_img1.png" class="r-stretch"></section>
+<section id="professionsbyråkrati" class="slide level2">
+<h2>Professionsbyråkrati</h2>
+<ul>
+<li class="fragment">Struktur: Decentraliserad</li>
+<li class="fragment">Typ av org: Professions-organisationer</li>
+<li class="fragment">Styrkor: Inre och yttre effektivitet på decentraliserad nivå</li>
+<li class="fragment">Svagheter: Samordning och kontroll försvåras</li>
+</ul>
+
+<img data-src="images/blomberg/slide33_img1.png" class="r-stretch"></section>
+<section id="divisionaliserad-form" class="slide level2">
+<h2>Divisionaliserad form</h2>
+<ul>
+<li class="fragment">Struktur: Divisionaliserad (ex produkt,marknad)</li>
+<li class="fragment">Typ av org: Konglomerat med många produkter/ tjänster</li>
+<li class="fragment">Styrkor: Anpassningsbar, kan utnyttja synergier och resurser</li>
+<li class="fragment">Svagheter: Risk för konflikter och kortsiktighet</li>
+</ul>
+<p><img data-src="images/blomberg/slide34_img1.png"> <img data-src="images/blomberg/slide34_img2.png"></p>
+</section>
+<section id="adhocrati" class="slide level2">
+<h2>Adhocrati</h2>
+<ul>
+<li class="fragment">Struktur: ‘Organisk’, temporär</li>
+<li class="fragment">Typ av org: Temporära organisationer; projekt</li>
+<li class="fragment">Styrkor: Innovativ och föränderlig i enlighet med skiftande krav</li>
+<li class="fragment">Svagheter: Resurskrävande, svårkontrollerbar</li>
+</ul>
+
+<img data-src="images/blomberg/slide35_img1.png" class="r-stretch"></section>
+<section id="vilken-struktur-bör-organisationen-ha" class="slide level2">
+<h2>Vilken struktur bör organisationen ha?</h2>
+<div style="font-size: 0.6em;">
+<table class="caption-top">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Dimension</th>
+<th>Situationsberoende</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Storlek och ålder</td>
+<td>Ju större och äldre verksamhet, desto mer formaliserade processer och hierarkiska strukturer</td>
+</tr>
+<tr class="even">
+<td>Centrala processer och kärnteknologi</td>
+<td>Ju högre grad av komplexitet i centrala processer och kärnteknologi, desto mindre formalisering och hierarki</td>
+</tr>
+<tr class="odd">
+<td>Omgivning</td>
+<td>Ju högre osäkerhet och turbulens i omgivningen, desto mindre formalisering och hierarki</td>
+</tr>
+<tr class="even">
+<td>Strategi</td>
+<td>Ju mer “hi-end”, det vill säga hög kvalitet och högteknologi, desto mindre formalisering och hierarki</td>
+</tr>
+<tr class="odd">
+<td>Informationsteknologi</td>
+<td>Ju mer utvecklad informationsteknologi, desto mer decentraliserad organisation och mindre antal mellanchefer, men även mer centralisering och vertikal kontroll</td>
+</tr>
+<tr class="even">
+<td>Arbetskraft</td>
+<td>Ju mer högutbildad och kunnig arbetskraft, desto mindre formalisering och hierarki</td>
+</tr>
+</tbody>
+</table>
+</div>
+</section>
+<section id="omstrukturering-i" class="slide level2">
+<h2>Omstrukturering I</h2>
+<p>Interna drivkrafter</p>
+<ul>
+<li class="fragment">Strategisk ledning eftersträvar centralisering</li>
+<li class="fragment">Mellanchefer eftersträvar decentralisering</li>
+<li class="fragment">Teknostrukturen eftersträvar standardisering</li>
+<li class="fragment">Staben eftersträvar samarbete</li>
+<li class="fragment">Operativa kärnan eftersträvar större frihet och mindre påverkan från andra i organisationen</li>
+</ul>
+</section>
+<section id="omstrukturering-ii" class="slide level2">
+<h2>Omstrukturering II</h2>
+<p>Externa drivkrafter - anpassning till…</p>
+<ul>
+<li class="fragment">Förändringar i omgivningen</li>
+<li class="fragment">Förändrad teknologi</li>
+<li class="fragment">Ny chef</li>
+<li class="fragment">Organisatorisk tillväxt</li>
+</ul>
+</section>
+<section class="slide level2">
+
+</section></section>
+<section>
+<section id="hr-perspektivet" class="title-slide slide level1 center">
+<h1>HR-PERSPEKTIVET</h1>
+
+</section>
+<section id="kritiken-mot-strukturperspektivet" class="slide level2">
+<h2>Kritiken mot strukturperspektivet</h2>
+<ul>
+<li class="fragment">Människosyn</li>
+<li class="fragment">”Ett av de viktigaste kraven på en man som lämpar sig till att hantera tackjärn som fast yrke är att han skall vara så dum och flegmatisk att han mentalt sett mer liknar en oxe än någon annan typ” (Taylor, 1911/1913, s. 59)</li>
+<li class="fragment">”Rätt man på rätt plats”</li>
+</ul>
+</section>
+<section id="hr-klassiker" class="slide level2">
+<h2>HR-klassiker</h2>
+<div style="font-size: 0.75em;">
+<ul>
+<li class="fragment">I Robert Owens och Karl Marx fotspår…</li>
+<li class="fragment">Hugo Münsterberg (1912):
+<ul>
+<li class="fragment">”Rätt man på rätt plats” genom psykologiska tester</li>
+</ul></li>
+<li class="fragment">Elton Mayo
+<ul>
+<li class="fragment">Hawthornestudien (1927) -&gt; Human Relations-skolan
+<ul>
+<li class="fragment">Prestation != Testad förmåga</li>
+<li class="fragment">Psykosocial tillfredsställelse viktigare än ”förmåga”</li>
+<li class="fragment">Kollektiv handling viktigare än individuell handling</li>
+<li class="fragment">Arbetsledning: rådgiving ”ansikte mot ansikte”</li>
+</ul></li>
+</ul></li>
+</ul>
+</div>
+</section>
+<section id="hr-perspektivet-grundläggande-antaganden" class="slide level2">
+<h2>HR-perspektivet grundläggande antaganden</h2>
+<ul>
+<li class="fragment">Organisationer ska tillfredsställa mänskliga behov
+<ul>
+<li class="fragment">(Organisationer finns till för att uppfylla människors behov, inte tvärtom)</li>
+<li class="fragment">(Människor och organisationer behöver varandra. Organisationerna behöver idéer, energi, kunskaper och färdigheter; människor behöver lön och möjligheter att utvecklas och göra karriär)</li>
+</ul></li>
+</ul>
+</section>
+<section id="hr-perspektivet-grundläggande-antaganden-1" class="slide level2">
+<h2>HR-perspektivet grundläggande antaganden</h2>
+<ul>
+<li class="fragment">Organisationers &amp; människors behov måste stämma överens
+<ul>
+<li class="fragment">(När överensstämmelsen mellan individ och system är dålig blir minst en av parterna lidande. Antingen utnyttjar organisationen människorna eller tvärtom, eller så går båda förlorande ur spelet.</li>
+<li class="fragment">När överensstämmelsen mellan individ och system är god tjänar båda parter på det. Individen får ett meningsfullt arbete som skänker dem tillfredsställelse och organisationen får den kunskap och energi som krävs för att lyckas.)</li>
+</ul></li>
+<li class="fragment">Människan är en komplex biologisk och (social)psykologisk varelse</li>
+</ul>
+</section>
+<section id="organisationsbehov" class="slide level2">
+<h2>Organisationsbehov?</h2>
+<ul>
+<li class="fragment">Fråga 1:
+<ul>
+<li class="fragment">Kan man verkligen säga att organisationer har behov?</li>
+</ul></li>
+<li class="fragment">Fråga 2:
+<ul>
+<li class="fragment">Vem definierar organisationens behov?</li>
+</ul></li>
+<li class="fragment">Notera:
+<ul>
+<li class="fragment">Den organisatoriska behovsanalysen lyser allt som oftast med sin frånvaro! Det tas för givet att organisationer behöver idéer, kunskaper och energi.</li>
+</ul></li>
+</ul>
+</section>
+<section id="vilka-behov-har-medarbetare" class="slide level2">
+<h2>Vilka behov har medarbetare?</h2>
+<div class="columns">
+<div class="column" style="width:33%;">
+<p><img data-src="images/blomberg/slide47_img1.png"></p>
+</div><div class="column" style="width:33%;">
+<p><img data-src="images/blomberg/slide47_img2.png"></p>
+</div><div class="column" style="width:33%;">
+<p><img data-src="images/blomberg/slide47_img3.png"></p>
+</div></div>
+</section>
+<section id="chefsskap" class="slide level2">
+<h2>Chefsskap</h2>
+<ul>
+<li class="fragment">(management) kontra ledarskap</li>
+</ul>
+
+<img data-src="images/blomberg/slide48_img1.png" class="r-stretch"></section>
+<section id="är-vs-bör-frågor-utifrån-ett-hr-perspektiv" class="slide level2">
+<h2>Är vs bör-frågor utifrån ett HR-perspektiv</h2>
+<ul>
+<li class="fragment"><ol type="1">
+<li class="fragment">Vilka behov har medarbetarna i organisationen respektive organisationen? Tillgodoses de?</li>
+</ol></li>
+<li class="fragment"><ol start="2" type="1">
+<li class="fragment">Vilka behov bör medarbetarna i organisationen respektive organisationen ha? Tillgodoses de?</li>
+</ol></li>
+<li class="fragment"><ol type="1">
+<li class="fragment">vs 2) Behövs en ny HR-strategi?</li>
+</ol></li>
+</ul>
+</section>
+<section id="två-grundläggande-hr-strategier" class="slide level2">
+<h2>Två grundläggande HR-strategier</h2>
+<ul>
+<li class="fragment">Investera i människor: Human Resources</li>
+<li class="fragment">Ansvarsfördelning och omstrukturering av arbetet:</li>
+<li class="fragment">Human Relations</li>
+</ul>
+</section>
+<section id="investera-i-människor" class="slide level2">
+<h2>Investera i människor</h2>
+<ul>
+<li class="fragment">… att anställa rätt personer och att belöna dem på ett riktigt sätt
+<ul>
+<li class="fragment">Rekrytera och belöna</li>
+<li class="fragment">Att ge trygghet</li>
+<li class="fragment">Internrekrytering</li>
+<li class="fragment">Utbildning och kompetensutveckling</li>
+<li class="fragment">Vinstdelning</li>
+</ul></li>
+</ul>
+</section>
+<section id="affärsidé-vs-personalidé" class="slide level2">
+<h2>Affärsidé vs Personalidé</h2>
+<ul>
+<li class="fragment">Personalidé
+<ul>
+<li class="fragment">Imageidé</li>
+<li class="fragment">Rekryteringsidé</li>
+<li class="fragment">Utvecklingsidé</li>
+<li class="fragment">Avvecklingsidé</li>
+</ul></li>
+</ul>
+</section>
+<section id="investeringsrationalitet" class="slide level2">
+<h2>Investeringsrationalitet</h2>
+<ul>
+<li class="fragment">Investering - avkastning</li>
+<li class="fragment">Människan = en resurs vilken som helst, d v s förbrukbar</li>
+<li class="fragment">Human Resource Management: ”Moderniteten i ett nötskal”
+<ul>
+<li class="fragment">Identifikation</li>
+<li class="fragment">Segregation</li>
+<li class="fragment">Hierarkisering</li>
+</ul></li>
+</ul>
+</section>
+<section id="ansvarsfördelning-och-omstrukturering-av-arbetet" class="slide level2">
+<h2>Ansvarsfördelning och omstrukturering av arbetet</h2>
+<ul>
+<li class="fragment">Investera i människor inte tillräckligt för att skapa engagemang.</li>
+<li class="fragment">Arbetet i sig måste innehålla:
+<ul>
+<li class="fragment">Självständighet och medinflytande</li>
+<li class="fragment">Arbetsberikning och resursutnyttjande</li>
+<li class="fragment">Lagarbete</li>
+<li class="fragment">Demokrati och jämlikhet</li>
+</ul></li>
+</ul>
+</section>
+<section id="kritik-mot-hr-perspektivet" class="slide level2">
+<h2>Kritik mot HR-perspektivet</h2>
+<ul>
+<li class="fragment">Romantisk syn på människan?</li>
+<li class="fragment">Naiv syn på matchning?</li>
+<li class="fragment">Akademiska medelklassvärderingar?</li>
+<li class="fragment">Ignorerar individuella olikheter?</li>
+<li class="fragment">Går maktens cyniska ärenden?</li>
+<li class="fragment">Utnyttja resurser eller respektera människan som social varelse?</li>
+</ul>
+</section>
+<section id="hr-perspektivets-skakiga-empiriska-stöd" class="slide level2">
+<h2>HR-perspektivets skakiga empiriska stöd</h2>
+<div class="columns">
+<div class="column">
+
+</div><ul>
+<li class="fragment">HR-perspektivet antar: <img data-src="images/blomberg/slide56_img1.png"></li>
+</ul><div class="column">
+<ul>
+<li class="fragment">Vissa studier visar: <img data-src="images/blomberg/slide56_img2.png"></li>
+</ul>
+</div></div>
+<!-- end columns -->
+</section>
+<section class="slide level2">
+
+</section></section>
+<section>
+<section id="maktperspektivet" class="title-slide slide level1 center">
+<h1>MAKTPERSPEKTIVET</h1>
+
+</section>
+<section id="makt---ett-knepigt-begrepp-med-en-knepig-historia" class="slide level2">
+<h2>Makt - ett ”knepigt” begrepp med en ”knepig” historia</h2>
+<ul>
+<li class="fragment">Makt är att få någon att göra något som han/hon annars inte skulle göra. (Dahl, 1958)</li>
+<li class="fragment">Makt är den ”potentiella förmågan att påverka beteenden, ändra handlingsförlopp, övervinna motstånd, och få människor att göra sådant som de annars inte skulle ha gjort.” (Pfeffer, 1992, B&amp;D, s 234-235)</li>
+<li class="fragment">Makt handlar om ”förmågan att få någonting gjort.” (Bolman och Deal, s. 234)</li>
+<li class="fragment">Makt är produktiv; den producerar verklighet (Foucault, 1975)</li>
+</ul>
+</section>
+<section id="några-viktiga-maktaspekter" class="slide level2">
+<h2>Några viktiga maktaspekter</h2>
+<ul>
+<li class="fragment">Auktoritet vs.&nbsp;makt</li>
+<li class="fragment">Mikromakt vs makromakt</li>
+<li class="fragment">Partikulär vs universell</li>
+<li class="fragment">Öppen eller dold makt</li>
+<li class="fragment">Makt att vs.&nbsp;makt över…</li>
+<li class="fragment">… makt över tanken</li>
+</ul>
+</section>
+<section id="maktperspektivets-grundantaganden" class="slide level2">
+<h2>Maktperspektivets grundantaganden</h2>
+<div style="font-size: 0.75em;">
+<ul>
+<li class="fragment">Organisationer är koalitioner som består av många olika och olikartade individer och intressegrupper.</li>
+<li class="fragment">Mellan koalitionsmedlemmarna finns det bestående skillnader i värderingar, åsikter, information, intressen och tolkningar av verkligheten.</li>
+<li class="fragment">Huvuddelen av alla viktiga beslut handlar om fördelning av knappa resurser, dvs om vem som får vad.</li>
+<li class="fragment">Knappa resurser och bestående skillnader ger konflikter en central plats i organisationsdynamiken och gör makt till den viktigaste tillgången.</li>
+<li class="fragment">Mål och beslut växer fram genom förhandling, köpslående och tävlande om bra positioner mellan konkurrerande intressenter.</li>
+</ul>
+</div>
+</section>
+<section id="är-vs-bör-frågor-utifrån-ett-maktperspektiv" class="slide level2">
+<h2>Är vs bör-frågor utifrån ett maktperspektiv</h2>
+<ol type="1">
+<li class="fragment">Hur är makten fördelad i organisationen?</li>
+</ol>
+<ul>
+<li class="fragment">Förekommer öppna maktkamper?</li>
+</ul>
+<ol start="2" type="1">
+<li class="fragment">Hur borde makten vara fördelad i organisationen?</li>
+</ol>
+<ul>
+<li class="fragment"><p>Borde det förekomma öppna maktkamper? ’</p></li>
+<li class="fragment"><ol type="1">
+<li class="fragment">vs 2): Bör makten omfördelas?</li>
+</ol></li>
+</ul>
+</section>
+<section id="hur-är-makten-fördelad-i-organisationen" class="slide level2">
+<h2>Hur är makten fördelad i organisationen?</h2>
+<ul>
+<li class="fragment">Vem/vilka besitter olika maktbaser?</li>
+</ul>
+
+<img data-src="images/blomberg/slide62_img1.png" class="r-stretch"></section>
+<section id="förekommer-konflikt-och-kamp" class="slide level2">
+<h2>Förekommer konflikt och kamp?</h2>
+
+<img data-src="images/blomberg/slide63_img1.png" class="r-stretch"></section>
+<section id="olika-typer-av-konflikt" class="slide level2">
+<h2>Olika typer av konflikt</h2>
+<ul>
+<li class="fragment">Horisontella konflikter
+<ul>
+<li class="fragment">Differentiering - integrering</li>
+<li class="fragment">Olika mål/intressen mellan olika enheter</li>
+<li class="fragment">Beroenden mellan uppgifter, grupper och koalitioner</li>
+<li class="fragment">Resursfördelning mellan olika enheter</li>
+</ul></li>
+<li class="fragment">Vertikala konflikter
+<ul>
+<li class="fragment">Top/down</li>
+</ul></li>
+</ul>
+</section>
+<section id="maktfördelning---konflikter---politik" class="slide level2">
+<h2>Maktfördelning - konflikter - politik</h2>
+<ul>
+<li class="fragment">Överdeterminerade system</li>
+<li class="fragment">Underdeterminerade system</li>
+<li class="fragment">När intressen kolliderar = konflikt
+<ul>
+<li class="fragment">För mycket eller lite?</li>
+</ul></li>
+<li class="fragment">Politik = konflikthantering</li>
+</ul>
+</section>
+<section id="maktens-dubbla-organisatoriska-dimensioner" class="slide level2">
+<h2>Maktens dubbla organisatoriska dimensioner</h2>
+<ul>
+<li class="fragment">Organisationer som politiska arenor</li>
+<li class="fragment">Organisationer som politiska aktörer</li>
+</ul>
+</section>
+<section id="kritik-mot-maktperspektivet" class="slide level2">
+<h2>Kritik mot maktperspektivet</h2>
+<ul>
+<li class="fragment">Cyniskt?</li>
+<li class="fragment">Gör allting till politik?</li>
+</ul>
+</section>
+<section class="slide level2">
+
+</section></section>
+<section>
+<section id="symbolperspektivet" class="title-slide slide level1 center">
+<h1>SYMBOLPERSPEKTIVET</h1>
+
+</section>
+<section id="symboler-och-deras-verkan" class="slide level2">
+<h2>Symboler och deras verkan</h2>
+<ul>
+<li class="fragment">Symbol: Från grekiskan, ’tecken’</li>
+<li class="fragment">Representation: Vi ser något som något för att gestalta det symbolen inte är, för att därigenom förstå det bättre.</li>
+</ul>
+</section>
+<section id="symbolperspektivets-grundläggande-antaganden" class="slide level2">
+<h2>Symbolperspektivets grundläggande antaganden</h2>
+<ul>
+<li class="fragment">Det viktiga är inte vad som händer utan vad det betyder.</li>
+<li class="fragment">Aktivitet och mening är löst kopplade till varandra - händelser får olika mening därför att människor tolkar erfarenheter på olika sätt.</li>
+<li class="fragment">För att kunna hantera den osäkerhet och mångtydighet som vi ställs inför i våra dagliga liv skapar vi människor symboler som minskar förvirringen, ökar förutsägbarheten och gör det möjligt att finna en riktning och förankra hopp och tro.</li>
+<li class="fragment">Många händelser och processer är av större vikt för det som uttrycks än för det som produceras. De bildar en kulturell gobeläng av sekulariserade myter, hjältar och hjältinnor, ritualer, ceremonier och historier som hjälper människor att finna glädje och mening både privat och i arbetslivet.</li>
+<li class="fragment">Kultur är det kitt som håller samman organisationer och som samlar människor kring en gemensam uppsättning värderingar och övertygelser.</li>
+</ul>
+</section>
+<section id="är-vs-bör-frågor-utifrån-ett-symbolperspektiv" class="slide level2">
+<h2>Är vs bör-frågor utifrån ett symbolperspektiv</h2>
+<ol type="1">
+<li class="fragment">Vad för slags kultur råder i organisationen?</li>
+</ol>
+<ul>
+<li class="fragment">Innehåll? Stark eller svag? Homogen eller heterogen?</li>
+</ul>
+<ol start="2" type="1">
+<li class="fragment">Vad för slags kultur borde råda i organisationen?</li>
+</ol>
+<ul>
+<li class="fragment"><p>Innehåll? Stark eller svag? Homogen eller heterogen?</p></li>
+<li class="fragment"><ol type="1">
+<li class="fragment">vs 2) Behövs en kulturförändring?</li>
+</ol></li>
+</ul>
+</section>
+<section id="edgar-scheins-definition-av-kultur" class="slide level2">
+<h2>Edgar Scheins definition av kultur</h2>
+<blockquote>
+<p>“… ett mönster av grundläggande antaganden som en grupp har lärt sig då den löst sina problem med anpassning till omgivningen och intern samordning, på sätt som fungerat bra nog att uppfattas som riktiga och därför lärs ut till nya medlemmar som det rätta sättet att erfara, tänka och känna i relation till de problemen.” (Schein 2004, s. 17)</p>
+</blockquote>
+</section>
+<section id="vad-för-slags-kultur-har-organisationen" class="slide level2">
+<h2>Vad för slags kultur har organisationen?</h2>
+
+<img data-src="images/blomberg/slide73_img1.png" class="r-stretch"></section>
+<section id="olika-typer-av-organisationssymboler" class="slide level2">
+<h2>Olika typer av organisationssymboler</h2>
+<ul>
+<li class="fragment">Myter, visioner och värderingar</li>
+<li class="fragment">Hjältar och hjältinnor</li>
+<li class="fragment">Historier, berättelser, sagor</li>
+<li class="fragment">Vanor och ritualer</li>
+<li class="fragment">Ceremonier</li>
+<li class="fragment">Metaforer, humor, lek</li>
+</ul>
+</section>
+<section id="organisation-som-teater" class="slide level2">
+<h2>Organisation som teater</h2>
+<div style="font-size: 0.75em;">
+<ul>
+<li class="fragment">Infria förväntningar, skapa legitimitet och mening
+<ul>
+<li class="fragment">Attrahera betalande publik (kunder, investerare, leverantörer etc)</li>
+</ul></li>
+<li class="fragment">Organisatoriska strukturer och processer
+<ul>
+<li class="fragment">Ha ”rätt” roller</li>
+<li class="fragment">Spela ”rätt” repertoar och ha ”rätt” rekvisita</li>
+</ul></li>
+<li class="fragment">Exempel på teaterföreställningar:
+<ul>
+<li class="fragment">Möten</li>
+<li class="fragment">Strategidokument (”mission” och ”vision”)</li>
+<li class="fragment">Jämställdhetsplaner</li>
+<li class="fragment">Utvärderingar</li>
+<li class="fragment">Medarbetarenkäter</li>
+</ul></li>
+</ul>
+</div>
+</section>
+<section id="kritik-mot-symbolperspektivet" class="slide level2">
+<h2>Kritik mot symbolperspektivet</h2>
+<ul>
+<li class="fragment">Allt för stark betoning på det gemensamma. Alla sitter inte ”i samma båt’.</li>
+<li class="fragment">Bristande legitimitet i en alltjämt rationalistiskt definierad värld.</li>
+</ul>
+</section>
+<section class="slide level2">
+
+</section></section>
+<section>
+<section id="genusperspektiv-på-de-fyra-perspektiven" class="title-slide slide level1 center">
+<h1>Genusperspektiv på de fyra perspektiven</h1>
+
+</section>
+<section id="genusperspektiv-på-strukturperspektivet" class="slide level2">
+<h2>Genusperspektiv på strukturperspektivet</h2>
+<div style="font-size: 0.75em;">
+<ul>
+<li class="fragment">Strukturperspektivet är i grunden ”könsblint”</li>
+<li class="fragment">Var finns kvinnor och män i organisationernas strukturer?</li>
+<li class="fragment">Yvonne Hirdmans ”könsmaktsordning”
+<ul>
+<li class="fragment">Kvinnor och män är segregerade och Hierarkiserade i samhället</li>
+<li class="fragment">Mannen är norm</li>
+</ul></li>
+<li class="fragment">Arbetsdelningen är könsmärkt</li>
+<li class="fragment">Roller, organisationer och branscher är könsmärkta</li>
+<li class="fragment">Gruppers sammansättning majoritet/minoritet
+<ul>
+<li class="fragment">Synlighet, kontrast, assimilering</li>
+</ul></li>
+</ul>
+<div style="font-size: 0.50em;">
+<ul>
+<li class="fragment">Rosabeth Moss Kanter Men and Women of the Corporation (1977) Wahl, m fl (2001: 68ff och 108-110)</li>
+</ul>
+</div>
+</div>
+</section>
+<section id="genusperspektiv-på-hr-perspektivet" class="slide level2">
+<h2>Genusperspektiv på HR-perspektivet</h2>
+<div style="font-size: 0.75em;">
+<ul>
+<li class="fragment">Vems behov tillgodoses i organisationer?</li>
+<li class="fragment">Antas kvinnor och män ha olika behov?
+<ul>
+<li class="fragment">Ges män och kvinnor lika lön för lika arbete?</li>
+</ul></li>
+<li class="fragment">Ges kvinnor och män samma möjligheter?</li>
+<li class="fragment">Är ”kompetens” ett könsneutralt fenomen?</li>
+<li class="fragment">’Glastaket’ (Breaking the glass ceiling, Morrison, White and van Velsor 1987)
+<ul>
+<li class="fragment">Stressen av att vara föregångare</li>
+<li class="fragment">Stressen av att ta dubbelt ansvar (arbete och familj)</li>
+<li class="fragment">Framgång kräver anpassning till status quo</li>
+</ul></li>
+</ul>
+</div>
+</section>
+<section id="genusperspektiv-på-maktperspektivet" class="slide level2">
+<h2>Genusperspektiv på maktperspektivet</h2>
+<div style="font-size: 0.75em;">
+<ul>
+<li class="fragment">Hur är makten fördelad mellan män och kvinnor i organisationer?
+<ul>
+<li class="fragment">Maktbaser?</li>
+<li class="fragment">Formell makt?</li>
+<li class="fragment">Informell makt?</li>
+</ul></li>
+<li class="fragment">Könsneutrala tolkningsföreträden och problemformuleringsprivilegier?</li>
+<li class="fragment">”Homosocialitet” - könsmaktsordningens reproduktion</li>
+</ul>
+</div>
+</section>
+<section id="genusperspektiv-på-symbolperspektivet" class="slide level2">
+<h2>Genusperspektiv på symbolperspektivet</h2>
+<div style="font-size: 0.75em;">
+<ul>
+<li class="fragment">Könsmärkta kulturer?
+<ul>
+<li class="fragment">Artefakter</li>
+<li class="fragment">Värderingar</li>
+<li class="fragment">Grundläggande antaganden</li>
+</ul></li>
+<li class="fragment">Att se företeelser som symboler för rationalitet och tradition reproducerat av (och för) män?</li>
+<li class="fragment">Mannen som (kulturell) norm - Kvinnan som normbrytare
+<ul>
+<li class="fragment">Tokenism</li>
+</ul></li>
+<li class="fragment">Språkets gestaltande karaktär
+<ul>
+<li class="fragment">Hur skildras fenomen?</li>
+</ul></li>
+</ul>
+</div>
+</section>
+<section id="section" class="slide level2 attribution-slide">
+<h2></h2>
+<h3 id="erkännande">Erkännande</h3>
+<p>Detta material är anpassat från en föreläsning av <strong>Daniel Ericsson</strong>, Institutionen för kulturvetenskaper, Lunds universitet, 2024.</p>
+
+
+</section></section>
+    </div>
+  <div class="quarto-auto-generated-content" style="display: none;">
+<p><img src="images/lu-logo.png" class="slide-logo"></p>
+<div class="footer footer-default">
+<p>DIKA44 – Lunds universitet</p>
+</div>
+</div></div>
+
+  <script>window.backupDefine = window.define; window.define = undefined;</script>
+  <script src="site_libs/revealjs/dist/reveal.js"></script>
+  <!-- reveal.js plugins -->
+  <script src="site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.js"></script>
+  <script src="site_libs/revealjs/plugin/pdf-export/pdfexport.js"></script>
+  <script src="site_libs/revealjs/plugin/reveal-menu/menu.js"></script>
+  <script src="site_libs/revealjs/plugin/reveal-menu/quarto-menu.js"></script>
+  <script src="site_libs/revealjs/plugin/quarto-support/support.js"></script>
+  
+
+  <script src="site_libs/revealjs/plugin/notes/notes.js"></script>
+  <script src="site_libs/revealjs/plugin/search/search.js"></script>
+  <script src="site_libs/revealjs/plugin/zoom/zoom.js"></script>
+  <script src="site_libs/revealjs/plugin/math/math.js"></script>
+  <script>window.define = window.backupDefine; window.backupDefine = undefined;</script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://revealjs.com/config/
+      Reveal.initialize({
+'controlsAuto': true,
+'previewLinksAuto': false,
+'pdfSeparateFragments': false,
+'autoAnimateEasing': "ease",
+'autoAnimateDuration': 1,
+'autoAnimateUnmatched': true,
+'jumpToSlide': true,
+'menu': {"side":"left","useTextContentForMissingTitles":true,"markers":false,"loadIcons":false,"custom":[{"title":"Tools","icon":"<i class=\"fas fa-gear\"></i>","content":"<ul class=\"slide-menu-items\">\n<li class=\"slide-tool-item active\" data-item=\"0\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.fullscreen(event)\"><kbd>f</kbd> Fullscreen</a></li>\n<li class=\"slide-tool-item\" data-item=\"1\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.speakerMode(event)\"><kbd>s</kbd> Speaker View</a></li>\n<li class=\"slide-tool-item\" data-item=\"2\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\"><kbd>o</kbd> Slide Overview</a></li>\n<li class=\"slide-tool-item\" data-item=\"3\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.togglePdfExport(event)\"><kbd>e</kbd> PDF Export Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"4\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleScrollView(event)\"><kbd>r</kbd> Scroll View Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"5\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.keyboardHelp(event)\"><kbd>?</kbd> Keyboard Help</a></li>\n</ul>"}],"openButton":true},
+'smaller': false,
+ 
+        // Display controls in the bottom right corner
+        controls: false,
+
+        // Help the user learn the controls by providing hints, for example by
+        // bouncing the down arrow when they first encounter a vertical slide
+        controlsTutorial: false,
+
+        // Determines where controls appear, "edges" or "bottom-right"
+        controlsLayout: 'edges',
+
+        // Visibility rule for backwards navigation arrows; "faded", "hidden"
+        // or "visible"
+        controlsBackArrows: 'faded',
+
+        // Display a presentation progress bar
+        progress: true,
+
+        // Display the page number of the current slide
+        slideNumber: 'c/t',
+
+        // 'all', 'print', or 'speaker'
+        showSlideNumber: 'all',
+
+        // Add the current slide number to the URL hash so that reloading the
+        // page/copying the URL will return you to the same slide
+        hash: true,
+
+        // Start with 1 for the hash rather than 0
+        hashOneBasedIndex: false,
+
+        // Flags if we should monitor the hash and change slides accordingly
+        respondToHashChanges: true,
+
+        // Push each slide change to the browser history
+        history: true,
+
+        // Enable keyboard shortcuts for navigation
+        keyboard: true,
+
+        // Enable the slide overview mode
+        overview: true,
+
+        // Disables the default reveal.js slide layout (scaling and centering)
+        // so that you can use custom CSS layout
+        disableLayout: false,
+
+        // Vertical centering of slides
+        center: false,
+
+        // Enables touch navigation on devices with touch input
+        touch: true,
+
+        // Loop the presentation
+        loop: false,
+
+        // Change the presentation direction to be RTL
+        rtl: false,
+
+        // see https://revealjs.com/vertical-slides/#navigation-mode
+        navigationMode: 'linear',
+
+        // Randomizes the order of slides each time the presentation loads
+        shuffle: false,
+
+        // Turns fragments on and off globally
+        fragments: true,
+
+        // Flags whether to include the current fragment in the URL,
+        // so that reloading brings you to the same fragment position
+        fragmentInURL: false,
+
+        // Flags if the presentation is running in an embedded mode,
+        // i.e. contained within a limited portion of the screen
+        embedded: false,
+
+        // Flags if we should show a help overlay when the questionmark
+        // key is pressed
+        help: true,
+
+        // Flags if it should be possible to pause the presentation (blackout)
+        pause: true,
+
+        // Flags if speaker notes should be visible to all viewers
+        showNotes: false,
+
+        // Global override for autoplaying embedded media (null/true/false)
+        autoPlayMedia: null,
+
+        // Global override for preloading lazy-loaded iframes (null/true/false)
+        preloadIframes: null,
+
+        // Number of milliseconds between automatically proceeding to the
+        // next slide, disabled when set to 0, this value can be overwritten
+        // by using a data-autoslide attribute on your slides
+        autoSlide: 0,
+
+        // Stop auto-sliding after user input
+        autoSlideStoppable: true,
+
+        // Use this method for navigation when auto-sliding
+        autoSlideMethod: null,
+
+        // Specify the average time in seconds that you think you will spend
+        // presenting each slide. This is used to show a pacing timer in the
+        // speaker view
+        defaultTiming: null,
+
+        // Enable slide navigation via mouse wheel
+        mouseWheel: false,
+
+        // The display mode that will be used to show slides
+        display: 'block',
+
+        // Hide cursor if inactive
+        hideInactiveCursor: true,
+
+        // Time before the cursor is hidden (in ms)
+        hideCursorTime: 5000,
+
+        // Opens links in an iframe preview overlay
+        previewLinks: false,
+
+        // Transition style (none/fade/slide/convex/concave/zoom)
+        transition: 'fade',
+
+        // Transition speed (default/fast/slow)
+        transitionSpeed: 'default',
+
+        // Transition style for full page slide backgrounds
+        // (none/fade/slide/convex/concave/zoom)
+        backgroundTransition: 'none',
+
+        // Number of slides away from the current that are visible
+        viewDistance: 3,
+
+        // Number of slides away from the current that are visible on mobile
+        // devices. It is advisable to set this to a lower number than
+        // viewDistance in order to save resources.
+        mobileViewDistance: 2,
+
+        // The "normal" size of the presentation, aspect ratio will be preserved
+        // when the presentation is scaled to fit different resolutions. Can be
+        // specified using percentage units.
+        width: 960,
+
+        height: 540,
+
+        // Factor of the display size that should remain empty around the content
+        margin: 0.1,
+
+        math: {
+          mathjax: 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js',
+          config: 'TeX-AMS_HTML-full',
+          tex2jax: {
+            inlineMath: [['\\(','\\)']],
+            displayMath: [['\\[','\\]']],
+            balanceBraces: true,
+            processEscapes: false,
+            processRefs: true,
+            processEnvironments: true,
+            preview: 'TeX',
+            skipTags: ['script','noscript','style','textarea','pre','code'],
+            ignoreClass: 'tex2jax_ignore',
+            processClass: 'tex2jax_process'
+          },
+        },
+
+        // reveal.js plugins
+        plugins: [QuartoLineHighlight, PdfExport, RevealMenu, QuartoSupport,
+
+          RevealMath,
+          RevealNotes,
+          RevealSearch,
+          RevealZoom
+        ]
+      });
+    </script>
+    <style>
+    .reveal .home-button {
+      position: fixed;
+      top: 8px;
+      left: 8px;
+      z-index: 40;
+      font-size: 24px;
+      line-height: 1;
+      color: #B1AA9F;
+      text-decoration: none;
+      opacity: 0.6;
+      transition: opacity 0.2s, color 0.2s;
+      pointer-events: auto;
+    }
+    .reveal .home-button:hover {
+      opacity: 1;
+      color: #894E11;
+    }
+    </style>
+    <script>
+    // Wait for Reveal.js to be ready, then inject into the controls layer
+    (function() {
+      function addHomeButton() {
+        var reveal = document.querySelector(".reveal");
+        if (!reveal) return;
+        var btn = document.createElement("a");
+        btn.href = "index.html";
+        btn.className = "home-button";
+        btn.title = "Tillbaka till startsidan";
+        btn.textContent = "\u2302";
+        reveal.appendChild(btn);
+      }
+      if (document.readyState === "loading") {
+        document.addEventListener("DOMContentLoaded", addHomeButton);
+      } else {
+        addHomeButton();
+      }
+    })();
+    </script>
+    <script id="quarto-html-after-body" type="application/javascript">
+      window.document.addEventListener("DOMContentLoaded", function (event) {
+        const tabsets =  window.document.querySelectorAll(".panel-tabset-tabby")
+        tabsets.forEach(function(tabset) {
+          const tabby = new Tabby('#' + tabset.id);
+        });
+        const isCodeAnnotation = (el) => {
+          for (const clz of el.classList) {
+            if (clz.startsWith('code-annotation-')) {                     
+              return true;
+            }
+          }
+          return false;
+        }
+        const onCopySuccess = function(e) {
+          // button target
+          const button = e.trigger;
+          // don't keep focus
+          button.blur();
+          // flash "checked"
+          button.classList.add('code-copy-button-checked');
+          var currentTitle = button.getAttribute("title");
+          button.setAttribute("title", "Copied!");
+          let tooltip;
+          if (window.bootstrap) {
+            button.setAttribute("data-bs-toggle", "tooltip");
+            button.setAttribute("data-bs-placement", "left");
+            button.setAttribute("data-bs-title", "Copied!");
+            tooltip = new bootstrap.Tooltip(button, 
+              { trigger: "manual", 
+                customClass: "code-copy-button-tooltip",
+                offset: [0, -8]});
+            tooltip.show();    
+          }
+          setTimeout(function() {
+            if (tooltip) {
+              tooltip.hide();
+              button.removeAttribute("data-bs-title");
+              button.removeAttribute("data-bs-toggle");
+              button.removeAttribute("data-bs-placement");
+            }
+            button.setAttribute("title", currentTitle);
+            button.classList.remove('code-copy-button-checked');
+          }, 1000);
+          // clear code selection
+          e.clearSelection();
+        }
+        const getTextToCopy = function(trigger) {
+            const codeEl = trigger.previousElementSibling.cloneNode(true);
+            for (const childEl of codeEl.children) {
+              if (isCodeAnnotation(childEl)) {
+                childEl.remove();
+              }
+            }
+            return codeEl.innerText;
+        }
+        const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+          text: getTextToCopy
+        });
+        clipboard.on('success', onCopySuccess);
+        if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+          const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+            text: getTextToCopy,
+            container: window.document.getElementById('quarto-embedded-source-code-modal')
+          });
+          clipboardModal.on('success', onCopySuccess);
+        }
+          var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+          var mailtoRegex = new RegExp(/^mailto:/);
+            var filterRegex = new RegExp("https:\/\/mathjoha\.github\.io\/DIKA44\/");
+          var isInternal = (href) => {
+              return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+          }
+          // Inspect non-navigation links and adorn them if external
+         var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+          for (var i=0; i<links.length; i++) {
+            const link = links[i];
+            if (!isInternal(link.href)) {
+              // undo the damage that might have been done by quarto-nav.js in the case of
+              // links that we want to consider external
+              if (link.dataset.originalHref !== undefined) {
+                link.href = link.dataset.originalHref;
+              }
+            }
+          }
+        function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+          const config = {
+            allowHTML: true,
+            maxWidth: 500,
+            delay: 100,
+            arrow: false,
+            appendTo: function(el) {
+                return el.closest('section.slide') || el.parentElement;
+            },
+            interactive: true,
+            interactiveBorder: 10,
+            theme: 'light-border',
+            placement: 'bottom-start',
+          };
+          if (contentFn) {
+            config.content = contentFn;
+          }
+          if (onTriggerFn) {
+            config.onTrigger = onTriggerFn;
+          }
+          if (onUntriggerFn) {
+            config.onUntrigger = onUntriggerFn;
+          }
+            config['offset'] = [0,0];
+            config['maxWidth'] = 700;
+          window.tippy(el, config); 
+        }
+        const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+        for (var i=0; i<noterefs.length; i++) {
+          const ref = noterefs[i];
+          tippyHover(ref, function() {
+            // use id or data attribute instead here
+            let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+            try { href = new URL(href).hash; } catch {}
+            const id = href.replace(/^#\/?/, "");
+            const note = window.document.getElementById(id);
+            if (note) {
+              return note.innerHTML;
+            } else {
+              return "";
+            }
+          });
+        }
+        const findCites = (el) => {
+          const parentEl = el.parentElement;
+          if (parentEl) {
+            const cites = parentEl.dataset.cites;
+            if (cites) {
+              return {
+                el,
+                cites: cites.split(' ')
+              };
+            } else {
+              return findCites(el.parentElement)
+            }
+          } else {
+            return undefined;
+          }
+        };
+        var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+        for (var i=0; i<bibliorefs.length; i++) {
+          const ref = bibliorefs[i];
+          const citeInfo = findCites(ref);
+          if (citeInfo) {
+            tippyHover(citeInfo.el, function() {
+              var popup = window.document.createElement('div');
+              citeInfo.cites.forEach(function(cite) {
+                var citeDiv = window.document.createElement('div');
+                citeDiv.classList.add('hanging-indent');
+                citeDiv.classList.add('csl-entry');
+                var biblioDiv = window.document.getElementById('ref-' + cite);
+                if (biblioDiv) {
+                  citeDiv.innerHTML = biblioDiv.innerHTML;
+                }
+                popup.appendChild(citeDiv);
+              });
+              return popup.innerHTML;
+            });
+          }
+        }
+      });
+      </script>
+    
+
+</body></html>

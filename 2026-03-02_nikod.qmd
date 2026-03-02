@@ -1,0 +1,275 @@
+---
+title: "Projektledning – två inriktningar"
+subtitle: |
+  DIKA44
+
+  ::: {.small-attribution}
+  Anpassad från Nikos Macheridis, 2025
+  :::
+date: ""
+author: Mathias Johansson
+format: revealjs
+---
+
+## Projekt
+
+- Från
+- Militära organisationer
+- Tekniska högskolar
+- Byggnadsbranschen och verkstadsindustri Leveransprojekt
+- Fokus på planer, effektivitet och rationalisering
+- Till
+- Ekonomihögskolor och humaniora
+- Tjänstesektor, sjukhusmiljöer och kommunal verksamhet
+- Etik, miljö och mångfald
+- Hänsyn till beställaren och  effektmål
+- Organisationsorientering (mål och strategier, komplexitet i beslutsfattandet och kunskapsöverförering)
+
+---
+
+## Olika sätt att betrakta projekt
+
+- Organisera/Organisationsform
+- Arbeta/Arbetsform
+- Lära/Lärandeform
+
+---
+
+## Vad är projekt?
+
+- Särdrag
+- uppdrag/syfte (vad)
+- Effektmål (varför, vad vill man nå med projektresultatet)
+- Livscykel (definitions-, planerings-, genomförande- och reflektionsfas)
+- Resurser
+- (människor/kompetens, teknologi etc.)
+- Organisation (fast och tillfällig)
+
+---
+
+## Vad är inte projekt?
+
+- Unik / ”never been before”?
+- Uppdraget?
+- Projektprocessen?
+- Vad är inte projekt?
+- Det beror på!
+
+---
+
+## Projektintressenter
+
+- Projektägare/projektsponsor
+- Uppdragsgivare/beställare
+- Kunden, användare
+- Projektledare, Projektgruppen
+- Styrgrupp, referensgrupp, ….
+- Kan involvera flera avdelningar och professioner
+- Andra?
+- Intresse, krav och förväntningar – som kanske förändras medan projektet pågår
+- Projektintressenters måttstock?
+
+---
+
+## Projektklassificering
+
+- Interna-Externa, Konkreta-
+- Öppna, Komplexa-Enkla, Rutin-
+- Unika, Nationella-Internationella,
+- Strategiska-Operationella, mfl.
+- Klassificering beror på/relaterar till: storlek, bransch, komplexitet, vikt/betydelse, risk, dynamik, mångfald, resursbehov mm.
+- Projektklassificering är viktigt för att det påverkar projektets ledning och styrning!
+
+---
+
+## Projektklassificering –
+
+- Virtuella/digitala projekt
+- Projekt team som korsar tid, plats, organisationer och kulturella gränser
+- Kommunicerar med varandra oberoende tid och geografiska plats
+- Bygger snarare på kunskap än funktion
+- Chefens makt är begränsad, projektmedlemmar har stort inflytande
+- IT/Internet stödjer
+
+---
+
+## Från idé till projekt, sk projektets definitionsfas
+
+- Beställarens perspektiv
+- Vilken/-a projektidéer ska väljas?
+- Hur ska det tilltänkta projektet finansieras?
+- Vem ska leverera projektresultat?
+- Uppdragstagares perspektiv
+- Ska en projektförfråga accepteras eller förkastas?
+- Både beställare och uppdragstagare kan finnas i samma organisation
+
+---
+
+## Urval av projekt: vilket/-a projekt ska vi satsa på?
+
+- Vissa projektförslag ”blir” projekt utan att passera alla faser i urvalsprocessen
+- •
+- Strategiskt viktiga projekt
+- (direkt koppling till organisationens affärsidé, målsättningar och strategier)
+- •
+- Akuta eller nödvändiga för organisationen, t.ex.
+- investeringar vid haverier
+
+---
+
+## Urval av projekt: vilket/-a projekt ska vi satsa på?
+
+- Koppling till organisationens affärsidé, mål och strategi
+- Kriterier som: finansiering, flexibilitet, kostnader, enkel att använda, enkel att datorisera
+
+---
+
+## Definitionsfas - om det ”blir” avslutas med en
+
+- beställning/kontrakt
+- Checklista
+- Projektmål
+- Leveranser
+- Milstolpar och beslutspunkter
+- Tekniska krav
+- Begräsningar och vad som ska
+- ”utelämnas”
+- Avstämning med kunden och andra intressenter
+
+---
+
+## Projektledning
+
+- Leda och styra projekt
+- prestations- och resultatorientering
+- Integrera projekt med
+- Organisationens affärsidé, mål och strategi samt pågående processer som produktion och försäljning
+- Andra projekt
+- Fokus på projektresultat och projektets livscykel
+- Fastställa prioriteringsordning bland projektets styrparametrar (projekt triangeln): Tid, Kostnad och Kvalitet
+- Projektledningens två dimensioner:
+- teknisk, sociokulturell
+
+---
+
+## Projektledning – Hänsyn till
+
+- Definitionsaspekter exempelvis
+- Beställare
+- Typ av projekt
+- Utvärdering
+- Processaspekter, exempelvis
+- Projektledare
+- Projektgruppen
+- Projektkommunikation
+- Projektets kvalitetssäkring
+
+---
+
+## Projektledning - utmaningar
+
+- Implementeringsproblem
+- Förstå och koordinera aktörer på olika nivåer (externa som interna):
+- olika verklighetsbilder, kunskaper, mål etc.
+- Organisationspolicy
+- Intresse, konflikter, maktförhållande
+- Resurskonflikter och ”arbeta med flera uppgifter parallellt”
+- Gemensamma resurser leder till att individer arbetar med flera uppgifter parallellt
+
+---
+
+## Projektledning - Varför misslyckas projekt?
+
+- Alla projektidéer borde aldrig ha blivit projekt
+- ”Dold agenda”
+- Utfallet för tids-, kostnads- och kvalitetsspecifikationer avviker ofta från budgeterande värde
+- Olika orsaker till misslyckande
+
+---
+
+## Projektledning – mångfald och genus
+
+- Projekt som pluralistisk organisation
+
+---
+
+## Projektledning – mångfald och genus
+
+- Mångfald avser individers egenskaper som formar deras identitet och erfarenheter i samhället
+- Med mångfald syftas ofta till etnicitet, med det kan syftas även till ålder, genus, religion, etc.
+- Hofstede: Maktdistans,
+- Individualism, Maskulinitet,
+- Undvikande av osäkerhet
+
+---
+
+## Projektledning – genus
+
+- Stereotyper
+- Manlig, exempelvis rationell, aggressiv, strategisk
+- Kvinnlig, exempelvis intuitiv, rationell och samarbetsinriktad
+- Skillnad mellan
+- Kön, det biologiska könet
+- Genus, social konstruktion där det sociala sammanhanget påverkar en individs genusutveckling (manlig eller kvinnlig)
+
+---
+
+## Projektledning – genus
+
+- Två perspektiv
+- Strukturalistiskt: vilka möjligheter t.ex. i projekthierarkin, vilken makt t.ex. beslutsfattande, och i vilken frekvens t.ex. assimilering, har resp. kön i ett projekt?
+- Process: Hur genom organisering t.ex. rekrytering till projektgruppen, genom framställning t.ex. vem får beröm, genom möte t.ex. hierarkisk position vem som frågar vad, genom självproduktion tex. man agerar som det passar, utrycks olika könsroller i ett projekt?
+
+---
+
+## Projektutvärdering
+
+- Utvärdering
+- Historiskt
+- Framtidsinriktad perspektiv perspektiv av projekt- i förhållande konkurrens- resultatet till uppdraget fördelar och till krav- marknads- specifikationer position av projekt- i förhållande kompetens- processen till planer utveckling och budget kvalitets- säkring
+- Kom ihåg:
+- Projektledarens ansvarar förprojektmålet
+- Beställare ansvarar för effektmålet
+- Projektmål och effektmål hänger samman, viktigt att rätt projekt har implementerats
+
+---
+
+## Projektutvärdering ska relateras till osäkerhet
+
+- Två typer av osäkerhet
+- Kontextuell osäkerhet: projektets resultat högst sannolikt utvärderas utifrån andra kunskaper och på andra premisser än det baserades på
+- Operationell osäkerhet: relaterar till projektets genomförande och sammanhänger med gapet mellan nödvändig information och tillgänglig  information
+
+---
+
+## Projektutvärdering
+
+- Individuell utvärdering
+- Utvärdering av projektgruppen
+- Utvärdering av projektledare
+- Individuellt lärande
+- erfarenhetskunskap
+- tyst kunskap
+
+---
+
+## Projektledning – på gång …
+
+- Multiprojektorganisationer
+- Standardisering av projektprocesser
+- (projektportfolionivå) och standardisering av stödprocesser (organisationsnivå)
+- Hantering av föränderlighet: Risk hantering (osäkerhet?) Agility
+- AI/digitala projekt
+- Project governance: Projekt i olika miljöer och olika typer av projekt
+- Kunskapsintegration och -överföring
+- Goda exempel
+
+---
+
+## {.attribution-slide}
+
+### Erkännande
+
+Detta material är anpassat från en föreläsning av **Nikos Macheridis**, Ekonomihögskolan, Lunds universitet, 2025.
+
+nikos.macheridis@fek.lu.se

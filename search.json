@@ -1,206 +1,703 @@
 [
   {
-    "objectID": "2026-02-20_gruppdynamik.html#section",
-    "href": "2026-02-20_gruppdynamik.html#section",
-    "title": "Gruppdynamik",
-    "section": "",
-    "text": "Caveat Emptor: parts of these slides have been generated with the help of Claude"
+    "objectID": "2026-03-03_genomforande.html#uppgift-1",
+    "href": "2026-03-03_genomforande.html#uppgift-1",
+    "title": "Utvärdering – genomförande och rapport",
+    "section": "Uppgift 1",
+    "text": "Uppgift 1"
   },
   {
-    "objectID": "2026-02-20_gruppdynamik.html#grupp-arbetsgrupp-team",
-    "href": "2026-02-20_gruppdynamik.html#grupp-arbetsgrupp-team",
-    "title": "Gruppdynamik",
-    "section": "Grupp / arbetsgrupp /team",
-    "text": "Grupp / arbetsgrupp /team"
+    "objectID": "2026-03-03_genomforande.html#uppgift-utvärderingsrapport",
+    "href": "2026-03-03_genomforande.html#uppgift-utvärderingsrapport",
+    "title": "Utvärdering – genomförande och rapport",
+    "section": "Uppgift: utvärderingsrapport",
+    "text": "Uppgift: utvärderingsrapport\n\nKursens andra examinationsuppgift görs i samma grupper som utvärderingsplanen. Uppgiften utgörs av en skriftlig avrapportering av den utvärdering som ni har genomfört. Rapporten ska innehålla följande:\nInledning (här bör anges vilken digital tjänst som utvärderats och i vilken användningskontext, samt vem rapporten i första hand riktar sig till)\nBakgrund (beskrivning av tjänsten, användargrupper i den aktuella användningskontexten samt motivering för utvärderingen)"
   },
   {
-    "objectID": "2026-02-20_gruppdynamik.html#synergi",
-    "href": "2026-02-20_gruppdynamik.html#synergi",
-    "title": "Gruppdynamik",
-    "section": "Synergi",
-    "text": "Synergi\n\nSamarbetsvinst\nMervärde\nSamverkan mellan flera faktorer\nHelheten är större än summan av delarna"
+    "objectID": "2026-03-03_genomforande.html#uppgift-utvärderingsrapport-forts.",
+    "href": "2026-03-03_genomforande.html#uppgift-utvärderingsrapport-forts.",
+    "title": "Utvärdering – genomförande och rapport",
+    "section": "Uppgift: utvärderingsrapport (forts.)",
+    "text": "Uppgift: utvärderingsrapport (forts.)\n\nSyftet med utvärderingen\nFrågeställningar som utvärderingen besvarar\nRedogörelse för hur utvärderingen genomförts\nResultat (vad visar undersökningarna?)\nAnalys och diskussion av resultaten\nKonklusion\nFörslag till förbättringar\nKällförteckning (i alfabetisk ordning)"
   },
   {
-    "objectID": "2026-02-20_gruppdynamik.html#målbild",
-    "href": "2026-02-20_gruppdynamik.html#målbild",
-    "title": "Gruppdynamik",
-    "section": "Målbild",
-    "text": "Målbild\n\nFör att styrningen ska fungera krävs att organisationen (i detta fall projektet) aktivt tolkar intentionerna med verksamheten\nProjektledaren har en viktig roll i detta"
+    "objectID": "2026-03-03_genomforande.html#digitala-tjänster",
+    "href": "2026-03-03_genomforande.html#digitala-tjänster",
+    "title": "Utvärdering – genomförande och rapport",
+    "section": "Digitala tjänster",
+    "text": "Digitala tjänster\n\nSkånetrafikens app\nHinge\nKlarna\n1177:s chattbot\nVoi\nAirwallet"
   },
   {
-    "objectID": "2026-02-20_gruppdynamik.html#smarta-mål",
-    "href": "2026-02-20_gruppdynamik.html#smarta-mål",
-    "title": "Gruppdynamik",
-    "section": "Smarta mål",
-    "text": "Smarta mål\n\nSpecific – tydligt, konkret, vad ska uppnås?\nMeasurable – mätbart, kvantifierbart, hur många, hur mycket?\nAssignable – vem är ansvarig för vad?\nRealistic – vad är möjligt inom ramarna för befintliga resurser?\nTime-related – när ska målet ha uppnåtts?"
+    "objectID": "2026-03-03_genomforande.html#formulera-syfte-frågeställningar",
+    "href": "2026-03-03_genomforande.html#formulera-syfte-frågeställningar",
+    "title": "Utvärdering – genomförande och rapport",
+    "section": "Formulera syfte & frågeställningar",
+    "text": "Formulera syfte & frågeställningar\n\nSyftet ska ange vad som ska utvärderas\nFrågeställningarna ska vara tydligt relaterade till syftet\nFrågeställningarna ska hjälpa er att uppnå syftet"
   },
   {
-    "objectID": "2026-02-20_gruppdynamik.html#vilka-tidsramar-har-era-projekt",
-    "href": "2026-02-20_gruppdynamik.html#vilka-tidsramar-har-era-projekt",
-    "title": "Gruppdynamik",
-    "section": "Vilka tidsramar har era projekt?",
-    "text": "Vilka tidsramar har era projekt?"
+    "objectID": "2026-03-03_genomforande.html#syfte-frågeställningar",
+    "href": "2026-03-03_genomforande.html#syfte-frågeställningar",
+    "title": "Utvärdering – genomförande och rapport",
+    "section": "Syfte & frågeställningar",
+    "text": "Syfte & frågeställningar\n\nExempel: Syftet med utvärderingen är att förstå användarupplevelsen för kvinnor mellan 20-25 år i Skåne som använder Hinge för att hitta en partner.\nFörslag: Syftet med utvärderingen är att undersöka hur användarupplevelsen för kvinnor mellan 20-25 år i Skåne som som använder Hinge för att hitta en partner kan förbättras.\nFörslag till primär frågeställning: Vilka utmaningar upplever användarna vid användning av appen och hur kan Hinge göra för att appen ska bli bättre för denna målgrupp?"
   },
   {
-    "objectID": "2026-02-20_gruppdynamik.html#tidsramar",
-    "href": "2026-02-20_gruppdynamik.html#tidsramar",
-    "title": "Gruppdynamik",
-    "section": "Tidsramar",
-    "text": "Tidsramar\n\nGrupp Blue:\nGrupp HotDogs:\nGrupp Star:\nGrupp Vintergatan:\nGrupp 5:\nGrupp 6:"
+    "objectID": "2026-03-03_genomforande.html#användningskontext-och-målgrupp",
+    "href": "2026-03-03_genomforande.html#användningskontext-och-målgrupp",
+    "title": "Utvärdering – genomförande och rapport",
+    "section": "Användningskontext och målgrupp",
+    "text": "Användningskontext och målgrupp\n\nGenerellt: avgränsa er till en användningskontext och en målgrupp\nExempel: Dem som förlitar sig på den varje dag, de som måste lita på att biljetterna är lätta att köpa och att realtidsinformationen faktiskt stämmer. Sedan har vi de som bara använder den någon gång ibland och kanske inte är lika vana vid gränssnittet – är den lika lätt att förstå för dem, eller blir det krångligt? Turister är en annan viktig grupp. Om man aldrig har åkt kollektivt i Skåne tidigare, är appen tillräckligt tydlig för att hjälpa en att hitta rätt? Och så finns nattresenärerna – de som behöver kollektivtrafiken när den går som mest sällan. Hur väl fungerar appen när man står där på en mörk busshållplats och väntar? En annan viktig aspekt är tillgängligheten. Hur fungerar appen för personer med syn-, hörsel- eller rörelsenedsättningar?\nFörslag: Väl en av dessa grupper som ni utgår ifrån i er syftesformulering"
   },
   {
-    "objectID": "2026-02-20_gruppdynamik.html#strukturella-egenskaper",
-    "href": "2026-02-20_gruppdynamik.html#strukturella-egenskaper",
-    "title": "Gruppdynamik",
-    "section": "Strukturella egenskaper",
-    "text": "Strukturella egenskaper\n\nHur lag kan eller bör vara uppbyggda\nAntal personer\nVilka personer?\nVilka uppgifter?"
+    "objectID": "2026-03-03_genomforande.html#användningskontext-och-målgrupp-1",
+    "href": "2026-03-03_genomforande.html#användningskontext-och-målgrupp-1",
+    "title": "Utvärdering – genomförande och rapport",
+    "section": "Användningskontext och målgrupp",
+    "text": "Användningskontext och målgrupp\n\nExempel: För att hålla undersökningen smal och fokuserad kan vi identifiera tre huvudsakliga användargrupper inom målgruppen kvinnor mellan 20-25 år i Skåne som använder Hinge för att hitta en partner.\nKommentar: Detta är en målgrupp och den fungerar mycket bra i sammanhanget."
   },
   {
-    "objectID": "2026-02-20_gruppdynamik.html#kompetens",
-    "href": "2026-02-20_gruppdynamik.html#kompetens",
-    "title": "Gruppdynamik",
-    "section": "Kompetens",
-    "text": "Kompetens\n\nSpecialist\nLagspelare\nProfession\nLaget och individerna skapar varandra"
+    "objectID": "2026-03-03_genomforande.html#användningskontext-och-målgrupp-2",
+    "href": "2026-03-03_genomforande.html#användningskontext-och-målgrupp-2",
+    "title": "Utvärdering – genomförande och rapport",
+    "section": "Användningskontext och målgrupp",
+    "text": "Användningskontext och målgrupp\n\nExempel: Målgrupp: kvinnor i åldern 18-25 år som använder Klarnas betaltjänster.\nHuvudsyfte: Att analysera om en sänkning av beloppsgränsen för kvinnor mellan 18-25 år kan minska antalet skuldsättningar hos Kronofogden. Utvärderingen ska också besvara frågor som: Hur påverkar nuvarande beloppsgränser unga kvinnors skuldsättning? Finns det ett samband mellan högre kreditgränser och ökad ekonomisk utsatthet? Vilka potentiella effekter kan en sänkning ha på användarnas köpbeteende?\nFörslag: Avgränsa er till huvudsyftet, det är tillräckligt inom kursens ramar."
   },
   {
-    "objectID": "2026-02-20_gruppdynamik.html#ledarskap",
-    "href": "2026-02-20_gruppdynamik.html#ledarskap",
-    "title": "Gruppdynamik",
-    "section": "Ledarskap",
-    "text": "Ledarskap\n\nKan organiseras på olika sätt\nTillit är viktigt\nLikaså transparens\nKonflikthantering\n”Kultur”"
+    "objectID": "2026-03-03_genomforande.html#utvärderingsmodeller",
+    "href": "2026-03-03_genomforande.html#utvärderingsmodeller",
+    "title": "Utvärdering – genomförande och rapport",
+    "section": "Utvärderingsmodeller",
+    "text": "Utvärderingsmodeller\n\nExempel: Ekonomisk, komparativ, resultatinriktad och aktörsfokuserad\nFörslag: välj en av dessa, möjligen två\nMedskick: ni behöver använda en kvalitativ och en kvantitativ metod."
   },
   {
-    "objectID": "2026-02-20_gruppdynamik.html#organisatoriskt-sammanhang",
-    "href": "2026-02-20_gruppdynamik.html#organisatoriskt-sammanhang",
-    "title": "Gruppdynamik",
-    "section": "Organisatoriskt sammanhang",
-    "text": "Organisatoriskt sammanhang\n\nYttre faktorer\nOmvärlden\nInre faktorer\nVilka organisatoriska sammanhang är relevanta i era projektplaner?\n\n\n\nYttre faktorer: tid, resurser, officiella mål, miljö, klienter\nOmvärlden: ideologier, politiska förhållanden, trender, samhällsutveckling, lagstiftning, regelverk, stammedlemmarnas utbildning, lön, legitimation\nInre faktorer: människors föreställningar, attityder, tankar, känslor, beteendemönster, sättet att samarbeta, informella roller"
+    "objectID": "2026-03-03_genomforande.html#syfte",
+    "href": "2026-03-03_genomforande.html#syfte",
+    "title": "Utvärdering – genomförande och rapport",
+    "section": "Syfte",
+    "text": "Syfte\n\nExempel: Syftet med utvärderingsplanen är att ta reda på om 1177s chattfunktion uppfyller de krav och önskemål som den utger sig för att göra, samt hur väl den bemöter användares och vårdpersonalens önskemål. Vidare finns ett intresse att utvärdera huruvida chattfunktionen kan vara att föredra över traditionella kontaktvägar.\nFörslag: Här finns tre syften. Det räcker med ett. Möjliga frågeställningar:\nUppfyller 1177:s chattfunktion de krav som den utger sig för att göra?\nHur väl möter 1177:s chattfunktion användares önskemål?\nHur väl möter 1177:s chattfunktion vårdpersonalens önskemål?\nHur väl står sig 1177:s chattfunktion i relation till andra kontaktvägar?"
   },
   {
-    "objectID": "2026-02-20_gruppdynamik.html#vilka-organisatoriska-sammanhang-är-aktuella-i-era-projekt",
-    "href": "2026-02-20_gruppdynamik.html#vilka-organisatoriska-sammanhang-är-aktuella-i-era-projekt",
-    "title": "Gruppdynamik",
-    "section": "Vilka organisatoriska sammanhang är aktuella i era projekt?",
-    "text": "Vilka organisatoriska sammanhang är aktuella i era projekt?"
+    "objectID": "2026-03-03_genomforande.html#generellt",
+    "href": "2026-03-03_genomforande.html#generellt",
+    "title": "Utvärdering – genomförande och rapport",
+    "section": "Generellt:",
+    "text": "Generellt:\n\nAvgränsa\nSmalna av\nLåt syftet styra"
   },
   {
-    "objectID": "2026-02-20_gruppdynamik.html#organisatoriska-sammanhang",
-    "href": "2026-02-20_gruppdynamik.html#organisatoriska-sammanhang",
-    "title": "Gruppdynamik",
-    "section": "Organisatoriska sammanhang",
-    "text": "Organisatoriska sammanhang\n\nGrupp Blue:\nGrupp HotDogs:\nGrupp Star:\nGrupp Vintergatan:\nGrupp 5:\nGrupp 6:"
+    "objectID": "2026-03-03_genomforande.html#resultat",
+    "href": "2026-03-03_genomforande.html#resultat",
+    "title": "Utvärdering – genomförande och rapport",
+    "section": "Resultat",
+    "text": "Resultat\n\nVad visar undersökningarna?\nHar frågeställningarna besvarats?\nHar syftet uppnåtts?\nDiskussion kring materialet: Hur många besvarade enkäten? Under vilken tidsperiod gjordes observationerna? Vilka frågor ställdes vid intervjuerna och vad fick man för svar?"
   },
   {
-    "objectID": "2026-02-20_gruppdynamik.html#gruppteorier",
-    "href": "2026-02-20_gruppdynamik.html#gruppteorier",
-    "title": "Gruppdynamik",
-    "section": "Gruppteorier",
-    "text": "Gruppteorier\n\nPrimärgrupp: medlemmarna känner varandra väl och är starkt beroende av varandra\nSekundärgrupp: kan präglas både av tillfälliga och mer långvariga relationer men medlemmarna har inte samma närhet till varandra som i primärgruppen\nGrupptänkande: grupper kan agera på ett sätt som ingen i gruppen egentligen vill (Blomberg s. 237-240)"
+    "objectID": "2026-03-03_genomforande.html#analys-diskussion-av-resultatet",
+    "href": "2026-03-03_genomforande.html#analys-diskussion-av-resultatet",
+    "title": "Utvärdering – genomförande och rapport",
+    "section": "Analys & diskussion av resultatet",
+    "text": "Analys & diskussion av resultatet\n\nVad säger resultatet? Vilka slutsatser är möjliga att dra? Kan det finnas faktorer som har påverkat resultatet positivt eller negativt?\nHur generaliserbart är resultatet?"
   },
   {
-    "objectID": "2026-02-20_gruppdynamik.html#fyra-grundläggande-perspektiv",
-    "href": "2026-02-20_gruppdynamik.html#fyra-grundläggande-perspektiv",
-    "title": "Gruppdynamik",
-    "section": "Fyra grundläggande perspektiv",
-    "text": "Fyra grundläggande perspektiv"
+    "objectID": "2026-03-03_genomforande.html#konklusion-slutsats",
+    "href": "2026-03-03_genomforande.html#konklusion-slutsats",
+    "title": "Utvärdering – genomförande och rapport",
+    "section": "Konklusion / slutsats",
+    "text": "Konklusion / slutsats\n\nUppnåddes syftet? Besvarades frågeställningarna? Varför / varför inte.\nIbland kan man inte dra några speciella slutsatser. Underlaget är kanske för magert. Då ska man vara transparent med det."
   },
   {
-    "objectID": "2026-02-20_gruppdynamik.html#arbetsklimat",
-    "href": "2026-02-20_gruppdynamik.html#arbetsklimat",
-    "title": "Gruppdynamik",
-    "section": "Arbetsklimat",
-    "text": "Arbetsklimat\n\nIndividens värderande helhetsupplevelse av kommunikationen på arbetsplatsen, en kvalitet i det sociala samspelet i framför allt den närmaste arbetsgruppen/teamet\nDynamiskt och beroende av sammanhanget\nBetydelse för:\n\nEgna upplevelser\nKvaliteten i arbetet\nKompetensutveckling"
+    "objectID": "2026-03-03_genomforande.html#förbättringsförslag",
+    "href": "2026-03-03_genomforande.html#förbättringsförslag",
+    "title": "Utvärdering – genomförande och rapport",
+    "section": "Förbättringsförslag",
+    "text": "Förbättringsförslag\n\nVad kan göra den digitala tjänsten bättre?\nExempelvis: slutsatsen blev att användare upplever stora problem med chattfunktionen i den digitala tjänsten. Förbättringsförslag kan då vara att förbättra funktionaliteten, exempelvis om problemen beror på att tjänsten stänger ner när användare försöker chatta, det kan också vara att förbättra logiken, exempelvis om problemen beror på att chatten är svår att hitta till.\nFörbättringsförslagen behöver ta hänsyn till faktorer som tid, pengar, hur enkelt eller svårt det är att genomföra förbättringsförslagen"
   },
   {
-    "objectID": "2026-02-20_gruppdynamik.html#rok-osa",
-    "href": "2026-02-20_gruppdynamik.html#rok-osa",
-    "title": "Gruppdynamik",
-    "section": "RoK & OSA",
-    "text": "RoK & OSA\n\nRoK = Risk- och konsekvensanalys\nHandlar om att identifiera risker och planera för hur dessa ska hanteras\nOSA = Organisatorisk och social arbetsmiljö\nHandlar exempelvis om hur arbetsuppgifter fördelas, vilka krav som ställs på projektdeltagarna, hur beslut fattas och vilka samarbetsformer som finns. Social arbetsmiljö handlar exempelvis om hur man bemöter och stöttar varandra på arbetsplatsen"
+    "objectID": "2026-03-03_genomforande.html#källförteckning",
+    "href": "2026-03-03_genomforande.html#källförteckning",
+    "title": "Utvärdering – genomförande och rapport",
+    "section": "Källförteckning",
+    "text": "Källförteckning\n\nNi ska referera till kurslitteraturen\nNi kommer också att behöva referera till andra källor, exempelvis beskrivning av tjänsten ni utvärderar, användarrecensioner, nyhetsrapportering i de fall det är relevant, exempelvis om er motivering till varför utvärderingen behövs bygger på aktuella händelser"
   },
   {
-    "objectID": "2026-02-20_gruppdynamik.html#riskanalys",
-    "href": "2026-02-20_gruppdynamik.html#riskanalys",
-    "title": "Gruppdynamik",
-    "section": "Riskanalys",
-    "text": "Riskanalys"
+    "objectID": "2026-03-03_genomforande.html#syfte-1",
+    "href": "2026-03-03_genomforande.html#syfte-1",
+    "title": "Utvärdering – genomförande och rapport",
+    "section": "Syfte",
+    "text": "Syfte\n\nExempel: Syftet med denna utvärdering är att få en djupare förståelse för hur studenter i Lund (18–25 år) använder och upplever Voi-applikationen i olika sammanhang.\nCentrala punkter: Användarvänlighet, funktionalitet, säkerhet, teknisk stabilitet\nFörslag: Syftet är att undersöka hur Voi-applikationen kan förbättras för att göra det säkrare för studenter att använda den under kvällar och nätter / Syftet är att undersöka hur väl Voi-applikationens betalningsfunktion svarar upp mot studenters förväntningar och behov"
   },
   {
-    "objectID": "2026-02-20_gruppdynamik.html#swot-analys",
-    "href": "2026-02-20_gruppdynamik.html#swot-analys",
-    "title": "Gruppdynamik",
-    "section": "SWOT-analys",
-    "text": "SWOT-analys\n\n\n\n\nPositivt\nNegativt\n\n\n\n\nInternt\nStrengths\nWeaknesses\n\n\nExternt\nOpportunities\nT hreats\n\n\n\n\nKartlägger projektets förutsättningar ur fyra perspektiv\nStyrkor och svagheter = det ni kan påverka\nMöjligheter och hot = omvärldsfaktorer att förhålla sig till"
+    "objectID": "2026-03-03_genomforande.html#intressenter",
+    "href": "2026-03-03_genomforande.html#intressenter",
+    "title": "Utvärdering – genomförande och rapport",
+    "section": "Intressenter",
+    "text": "Intressenter\n\nExempel:\nVoi – kan använda resultaten för att förbättra sin tjänst och anpassa säkerhetsåtgärder.\nKommunen och stadsplanerare som arbetar med reglering av elscootertrafik och säkerhet i stadsmiljön.\nPolisen och trafiksäkerhetsorganisationer som kan ha intresse av resultaten gällande säkerhet och efterlevnad av trafikregler."
   },
   {
-    "objectID": "2026-02-20_gruppdynamik.html#swot-analys-exempel",
-    "href": "2026-02-20_gruppdynamik.html#swot-analys-exempel",
-    "title": "Gruppdynamik",
-    "section": "SWOT-analys – exempel",
-    "text": "SWOT-analys – exempel\nProjekt: Utveckla en ny digital tjänst för kommuninvånare\n\n\nStyrkor\n\nEngagerad projektgrupp\nStark IT-kompetens internt\n\nMöjligheter\n\nÖkad efterfrågan på digitala tjänster\nMöjlighet till extern finansiering\n\n\nSvagheter\n\nBegränsad budget\nKort tidsram\n\nHot\n\nFörändrad politisk prioritering\nTeknikskifte under projektets gång"
+    "objectID": "2026-03-03_genomforande.html#motivering",
+    "href": "2026-03-03_genomforande.html#motivering",
+    "title": "Utvärdering – genomförande och rapport",
+    "section": "Motivering",
+    "text": "Motivering\n\nExempel: Tjänsten är särskilt intressant att utvärdera eftersom den kombinerar bokning av en gemensam resurs (tvättstuga) med en betallösning, något som påverkar både hyresgästers beteende och kostnadsmedvetande. Samtidigt kan beroendet av internetuppkoppling innebära vissa utmaningar, till exempel om appen blir otillgänglig eller om tekniken fallerar."
   },
   {
-    "objectID": "2026-02-20_gruppdynamik.html#risker",
-    "href": "2026-02-20_gruppdynamik.html#risker",
-    "title": "Gruppdynamik",
-    "section": "Risker",
-    "text": "Risker\n\nGrupp Blue:\nGrupp HotDogs:\nGrupp Star:\nGrupp Vintergatan:\nGrupp 5:\nGrupp 6:"
+    "objectID": "2026-03-03_genomforande.html#kurslitteratur",
+    "href": "2026-03-03_genomforande.html#kurslitteratur",
+    "title": "Utvärdering – genomförande och rapport",
+    "section": "Kurslitteratur",
+    "text": "Kurslitteratur"
   },
   {
-    "objectID": "2026-02-20_gruppdynamik.html#hälsosamt-arbete",
-    "href": "2026-02-20_gruppdynamik.html#hälsosamt-arbete",
-    "title": "Gruppdynamik",
-    "section": "Hälsosamt arbete",
-    "text": "Hälsosamt arbete\n\nProjektledare företräder både arbetsgivarens och projektgruppens perspektiv\nDet kan leda till vissa utmaningar\nReflektion & dialog viktigt"
+    "objectID": "2026-03-03_genomforande.html#what-factors-affect-the-ux-in-mobile-apps",
+    "href": "2026-03-03_genomforande.html#what-factors-affect-the-ux-in-mobile-apps",
+    "title": "Utvärdering – genomförande och rapport",
+    "section": "What factors affect the UX in mobile apps?",
+    "text": "What factors affect the UX in mobile apps?\n\nHur denna artikel kan användas i uppgiften\nHur man generellt kan tänka om kurslitteratur i relation till examinationsuppgifter\nVad har ni lärt er hittills om UX?\nMan ska slippa tänka så mycket\nPrestanda och hanstighet\nVisuell design\nUppfylla sitt syfte"
   },
   {
-    "objectID": "2026-02-20_gruppdynamik.html#hälsa-välbefinnande",
-    "href": "2026-02-20_gruppdynamik.html#hälsa-välbefinnande",
-    "title": "Gruppdynamik",
-    "section": "Hälsa & välbefinnande",
-    "text": "Hälsa & välbefinnande\n\nVälbefinnande och hälsa är viktiga faktorer att ta med i beräkningarna som projektledare\nViktigt att hålla det på en rimlig nivå\nAlla kan inte vara på topp hela tiden\nGruppen och individen påverkar varandra och ett gott arbetsklimat har sin grund i hur individerna relaterar till varandra både på ett professionellt och på ett personligt plan"
+    "objectID": "2026-03-03_genomforande.html#what-factors-affect-the-ux-in-mobile-apps-1",
+    "href": "2026-03-03_genomforande.html#what-factors-affect-the-ux-in-mobile-apps-1",
+    "title": "Utvärdering – genomförande och rapport",
+    "section": "What factors affect the UX in mobile apps?",
+    "text": "What factors affect the UX in mobile apps?"
   },
   {
-    "objectID": "2026-02-20_gruppdynamik.html#tyst-kunskap",
-    "href": "2026-02-20_gruppdynamik.html#tyst-kunskap",
-    "title": "Gruppdynamik",
-    "section": "Tyst kunskap",
-    "text": "Tyst kunskap"
+    "objectID": "2026-03-03_genomforande.html#what-factors-affect-the-ux-in-mobile-apps-2",
+    "href": "2026-03-03_genomforande.html#what-factors-affect-the-ux-in-mobile-apps-2",
+    "title": "Utvärdering – genomförande och rapport",
+    "section": "What factors affect the UX in mobile apps?",
+    "text": "What factors affect the UX in mobile apps?"
   },
   {
-    "objectID": "2026-02-20_gruppdynamik.html#index",
-    "href": "2026-02-20_gruppdynamik.html#index",
-    "title": "Gruppdynamik",
-    "section": "Index",
-    "text": "Index"
+    "objectID": "2026-03-03_genomforande.html#what-factors-affect-the-ux-in-mobile-apps-3",
+    "href": "2026-03-03_genomforande.html#what-factors-affect-the-ux-in-mobile-apps-3",
+    "title": "Utvärdering – genomförande och rapport",
+    "section": "What factors affect the UX in mobile apps?",
+    "text": "What factors affect the UX in mobile apps?\n\nTvå viktiga faktorer när man utvärderar mjukvaruapplikationer: användbarhet och användarupplevelse (UX)\nAnvändbarhet: till vilken grad hjälper tjänsten/produkten användaren att uppnå sina mål/genomföra sina uppgifter?\nAnvändarupplevelse: även andra delar av användarens interaktion med tjänsten/produkten såsom design, estetik, känslor.\nVilken av dessa aspekter som ska utvärderas styr vilka frågor som ställs."
   },
   {
-    "objectID": "2026-02-20_gruppdynamik.html#vad-ska-vi-mer-prata-om-idag",
-    "href": "2026-02-20_gruppdynamik.html#vad-ska-vi-mer-prata-om-idag",
-    "title": "Gruppdynamik",
-    "section": "Vad ska vi mer prata om idag?",
-    "text": "Vad ska vi mer prata om idag?"
+    "objectID": "2026-03-03_genomforande.html#what-factors-affect-the-ux-in-mobile-apps-4",
+    "href": "2026-03-03_genomforande.html#what-factors-affect-the-ux-in-mobile-apps-4",
+    "title": "Utvärdering – genomförande och rapport",
+    "section": "What factors affect the UX in mobile apps?",
+    "text": "What factors affect the UX in mobile apps?\n\nArtikeln presenterar en systematisk kartläggning av tidigare studier som har undersökt användarrecensioner från app stores.\nMål: att identifiera faktorer som kan påverka UX i mobilapplikationer, metoderna för att analysera sådana recensioner, omfattningen av analyserna och implikationerna för praktiker och forskare\nPrimär forskningsfråga: ”What are the UX-related factors that influence users’ evaluations in app store reviews, and how do they affect UX?”\nSamt sju sekundära forskningsfrågor som ska hjälpa till att besvara den huvudsakliga/primära."
   },
   {
-    "objectID": "2026-02-20_gruppdynamik.html#section-1",
-    "href": "2026-02-20_gruppdynamik.html#section-1",
-    "title": "Gruppdynamik",
+    "objectID": "2026-03-03_genomforande.html#what-factors-affect-the-ux-in-mobile-apps-5",
+    "href": "2026-03-03_genomforande.html#what-factors-affect-the-ux-in-mobile-apps-5",
+    "title": "Utvärdering – genomförande och rapport",
+    "section": "What factors affect the UX in mobile apps?",
+    "text": "What factors affect the UX in mobile apps?"
+  },
+  {
+    "objectID": "2026-03-03_genomforande.html#what-factors-affect-the-ux-in-mobile-apps-6",
+    "href": "2026-03-03_genomforande.html#what-factors-affect-the-ux-in-mobile-apps-6",
+    "title": "Utvärdering – genomförande och rapport",
+    "section": "What factors affect the UX in mobile apps?",
+    "text": "What factors affect the UX in mobile apps?\n\nArtikeln identifierar ett antal faktorer som kan påverka användarnas uppfattning om upplevelsen av en app. Att identifiera dessa faktorer kan få konsekvenser för framtida arbete, exempelvis UX-utvärderingar.\nDenna typ av undersökning kan och bidra till att utveckla UX-utvärderingsmetoder och riktlinjer.\nNi kan använda dessa faktorer när ni genomför era utvärderingar.\nExempelvis: ”bugs/crash was the third most negative factor” (s. 18) kan användas som argument för att just denna punkt är viktig att ha med i en utvärdering"
+  },
+  {
+    "objectID": "2026-03-03_genomforande.html#section",
+    "href": "2026-03-03_genomforande.html#section",
+    "title": "Utvärdering – genomförande och rapport",
     "section": "",
     "text": "Erkännande\nDetta material är anpassat från en föreläsning av Ann-Sofie Klareld, Lunds universitet, 2025."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "DIKA44",
-    "section": "",
-    "text": "Introduktion\nProjektledning\nGruppdynamik\n\n\n\nCaveat Emptor: parts of these slides have been generated with the help of Claude"
+    "objectID": "2026-03-02_blomberg.html#dagens-agenda",
+    "href": "2026-03-02_blomberg.html#dagens-agenda",
+    "title": "Projektledning à la Blomberg",
+    "section": "Dagens agenda",
+    "text": "Dagens agenda\n\nPresentera fyra perspektiv på organisation (och ledarskap) utifrån\nJesper Blombergs bok ”Management”\n\nmed ett fokus på projekt\noch med ett genusperspektiv på de fyra perspektiven"
   },
   {
-    "objectID": "index.html#föreläsningar",
-    "href": "index.html#föreläsningar",
-    "title": "DIKA44",
+    "objectID": "2026-03-02_blomberg.html#management-en-utgångspunkt",
+    "href": "2026-03-02_blomberg.html#management-en-utgångspunkt",
+    "title": "Projektledning à la Blomberg",
+    "section": "Management: En utgångspunkt",
+    "text": "Management: En utgångspunkt\n\n\n\nProblemet\n\nAtt få människor att tillsammans åstadkomma det som de annars inte skulle åstadkomma…\n\nLösningen\n\nSamordnad handling\n\n\n\n\nOrganisation\n\nAlla de arenor i samhället där organisering sker i en tydligt avgränsad form.\n\nLedarskap\n\nAlla de krafter som på ett eller annat sätt bidrar till att människor organiserar sig."
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#några-olika-organisations-typer",
+    "href": "2026-03-02_blomberg.html#några-olika-organisations-typer",
+    "title": "Projektledning à la Blomberg",
+    "section": "Några olika organisations-”typer”",
+    "text": "Några olika organisations-”typer”\n\nOch så projekt förstås!"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#bokens-filosofiska-teoretiska-kärna",
+    "href": "2026-03-02_blomberg.html#bokens-filosofiska-teoretiska-kärna",
+    "title": "Projektledning à la Blomberg",
+    "section": "Bokens filosofiska & teoretiska ”kärna”",
+    "text": "Bokens filosofiska & teoretiska ”kärna”\n\nPerspektivseende\nPerspektivväxling"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#kunskap-vad-vi-vet-och-vad-vi-uppfattar-är-alltid-relativt-ett-perspektiv",
+    "href": "2026-03-02_blomberg.html#kunskap-vad-vi-vet-och-vad-vi-uppfattar-är-alltid-relativt-ett-perspektiv",
+    "title": "Projektledning à la Blomberg",
+    "section": "Kunskap: Vad vi vet och vad vi uppfattar är alltid relativt ett perspektiv",
+    "text": "Kunskap: Vad vi vet och vad vi uppfattar är alltid relativt ett perspektiv\n\nVad vi uppfattar som ett problem är beroende av vårt perspektiv\nOm vi byter perspektiv kan ett problem till och med omvandlas till en lösning\nPerspektiv är nödvändiga för att vi ska kunna se något överhuvudtaget, men de förblindar oss också\nFör att möjliggöra för oss att byta perspektiv/inte fastna i ett perspektiv, behöver vi hjälp\nTeorier och teoretiska perspektiv utgör en sådan hjälp"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#fyra-perspektiv-på-organisation-och-ledarskap",
+    "href": "2026-03-02_blomberg.html#fyra-perspektiv-på-organisation-och-ledarskap",
+    "title": "Projektledning à la Blomberg",
+    "section": "Fyra perspektiv på organisation och ledarskap",
+    "text": "Fyra perspektiv på organisation och ledarskap\n\n  \n  \n  Strukturperspektivet\n  (rationella system & formella processer)\n\n  \n  \n  HR-perspektivet\n  (mänskliga resurser & motivation)\n\n  \n  \n  \"Moderna\"\n  • Normativa\n  • Funktionalism\n\n  \n  \n  Maktperspektivet\n  (konflikt, politik & förhandling)\n\n  \n  \n  Symbolperspektivet\n  (mening, identitet, kultur & normer)\n\n  \n  \n  \"Nutida\"\n  • Deskriptiva, kritiska\n  • Relativism"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#framgångsrik-organisering-enligt-strukturperspektivet",
+    "href": "2026-03-02_blomberg.html#framgångsrik-organisering-enligt-strukturperspektivet",
+    "title": "Projektledning à la Blomberg",
+    "section": "Framgångsrik organisering enligt strukturperspektivet",
+    "text": "Framgångsrik organisering enligt strukturperspektivet"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#framgångsrik-organisering-enligt-hr--perspektivet",
+    "href": "2026-03-02_blomberg.html#framgångsrik-organisering-enligt-hr--perspektivet",
+    "title": "Projektledning à la Blomberg",
+    "section": "Framgångsrik organisering enligt HR- perspektivet",
+    "text": "Framgångsrik organisering enligt HR- perspektivet"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#framgångsrik-organisering-enligt-maktperspektivet",
+    "href": "2026-03-02_blomberg.html#framgångsrik-organisering-enligt-maktperspektivet",
+    "title": "Projektledning à la Blomberg",
+    "section": "Framgångsrik organisering enligt maktperspektivet",
+    "text": "Framgångsrik organisering enligt maktperspektivet\n\nPage 12"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#framgångsrik-organisering-enligt-symbolperspektivet",
+    "href": "2026-03-02_blomberg.html#framgångsrik-organisering-enligt-symbolperspektivet",
+    "title": "Projektledning à la Blomberg",
+    "section": "Framgångsrik organisering enligt symbolperspektivet",
+    "text": "Framgångsrik organisering enligt symbolperspektivet"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#perspektivväxling",
+    "href": "2026-03-02_blomberg.html#perspektivväxling",
+    "title": "Projektledning à la Blomberg",
+    "section": "Perspektivväxling",
+    "text": "Perspektivväxling\n\nJu fler perspektiv vi har att tillgå, desto bättre!\n\nBättre förståelse\nEn utökad tanke- och handlingsrepertoar\nBättre beslut\nBättre agerande"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#analysstrategi",
+    "href": "2026-03-02_blomberg.html#analysstrategi",
+    "title": "Projektledning à la Blomberg",
+    "section": "Analysstrategi",
+    "text": "Analysstrategi\n\nAtt ställa det som empiriskt ”är”…\n… mot det som teoretiskt ”bör” vara"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#är-vs-bör-frågor-utifrån-ett-strukturperspektiv",
+    "href": "2026-03-02_blomberg.html#är-vs-bör-frågor-utifrån-ett-strukturperspektiv",
+    "title": "Projektledning à la Blomberg",
+    "section": "Är vs bör-frågor utifrån ett strukturperspektiv",
+    "text": "Är vs bör-frågor utifrån ett strukturperspektiv\n\nVilken struktur har organisationen?\nVilken struktur bör organisationen ha?\n\n\n\nvs 2.: Omstrukturering?"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#det-strukturella-problemet-samordnad-handling",
+    "href": "2026-03-02_blomberg.html#det-strukturella-problemet-samordnad-handling",
+    "title": "Projektledning à la Blomberg",
+    "section": "”Det strukturella problemet”: Samordnad handling",
+    "text": "”Det strukturella problemet”: Samordnad handling\n\nArbetsdelning - specialisering - koordinering –\n\nVem ska göra vad? A gör a; B gör b; C gör c…\nHur förhålla A/a till B/b till C/c…?\nHur koordinera A/a till B/B till C/c…?\n\nOrganisation från grekiskans organon, ”verktyg”, ”redskap”\nChef/ledaren som ”redskapshanterare”"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#teoretiska-föregångareströmningar",
+    "href": "2026-03-02_blomberg.html#teoretiska-föregångareströmningar",
+    "title": "Projektledning à la Blomberg",
+    "section": "Teoretiska föregångare/strömningar",
+    "text": "Teoretiska föregångare/strömningar\n\nOrganisationer i industriell utveckling\n\nPrivata företag och statlig administration\n\nSociologi\n\nMax Weber\n\nKlassisk managementteori\n\nScientific management; Frederick W Taylor, Henri Fayol"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#den-byråkratiska-skolan",
+    "href": "2026-03-02_blomberg.html#den-byråkratiska-skolan",
+    "title": "Projektledning à la Blomberg",
+    "section": "Den byråkratiska skolan",
+    "text": "Den byråkratiska skolan\n\nMax Weber, sociolog, lanserade idéer om den byråkratiska\n”idealtypen”\n\nRationell auktoritet (opartisk, objektiv) framför karisma och tradition\nHierarki med strikt ansvarsfördelning\nStyrning genom regler och procedurer\nReglerad befordringsgång, meritokrati"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#scientific-management",
+    "href": "2026-03-02_blomberg.html#scientific-management",
+    "title": "Projektledning à la Blomberg",
+    "section": "Scientific Management",
+    "text": "Scientific Management\n\nFrederick W. Taylor, ingenjör och industriledare\nThe Principles of Scientific Management (1911)\n\nHantverksmässiga ’tumregler’ inte tillräckligt effektiva\nFunktionell arbetsdelning - ’huvudet i topp och fötterna på marken’\nSpecialisering och övervakning av arbetsprocesser\nTidsstudiemän\n”Rätt man på rätt plats”"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#den-administrativa-skolan",
+    "href": "2026-03-02_blomberg.html#den-administrativa-skolan",
+    "title": "Projektledning à la Blomberg",
+    "section": "Den administrativa skolan",
+    "text": "Den administrativa skolan\n\nHenri Fayol, ingenjör och industriledare: General and Industrial\nManagement (1919)\n\n14 principer för rationell administration, bl a\nenhetlig befälsordning\nansvar och auktoritet\ncentralisering\norganisationsscheman\nlöpande avrapportering"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#grundläggande-antaganden-1",
+    "href": "2026-03-02_blomberg.html#grundläggande-antaganden-1",
+    "title": "Projektledning à la Blomberg",
+    "section": "Grundläggande antaganden 1",
+    "text": "Grundläggande antaganden 1\n\nOrganisationer existerar för att man skall kunna nå uppställda mål.\nOrganisationen förbättrar effektivitet och utfall genom specialisering och tydlig arbetsfördelning.\nLämpliga samordnings- och kontrollformer säkerställer att olika individers och enheters ansträngningar kopplas samman."
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#grundläggande-antaganden-2",
+    "href": "2026-03-02_blomberg.html#grundläggande-antaganden-2",
+    "title": "Projektledning à la Blomberg",
+    "section": "Grundläggande antaganden 2",
+    "text": "Grundläggande antaganden 2\n\nOrganisationer fungerar bäst då rationaliteten ges företräde framför personliga preferenser och yttre tryck.\nStrukturerna måste utformas på ett sådant sätt att de passar organisationens villkor (exempelvis vad gäller mål, teknologi, arbetsstyrka och omgivning).\nProblem och försämrade prestationer uppstår till följd av strukturella svagheter och kan åtgärdas med hjälp av analys och omstrukturering."
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#tre-grundläggande-aspekter",
+    "href": "2026-03-02_blomberg.html#tre-grundläggande-aspekter",
+    "title": "Projektledning à la Blomberg",
+    "section": "Tre grundläggande aspekter",
+    "text": "Tre grundläggande aspekter\n\nRationell…\n… arbetsdelning (tydlig roll- och ansvarsfördelning) och\nsamordning (tydliga kommunikations- och beslutsvägar)\n… ger inre och yttre effektivitet\nInre effektivitet - att göra saker rätt (efficiency)\nYttre effektivitet - att göra rätt saker (effectiveness)"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#arbetsdelning",
+    "href": "2026-03-02_blomberg.html#arbetsdelning",
+    "title": "Projektledning à la Blomberg",
+    "section": "Arbetsdelning",
+    "text": "Arbetsdelning\n…kan ske efter:\n\nFunktion (kunskaper och färdigheter)\nTid\nProdukt/marknad\nKlient/kund\nPlats/geografi\nProcess"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#samordning-i",
+    "href": "2026-03-02_blomberg.html#samordning-i",
+    "title": "Projektledning à la Blomberg",
+    "section": "Samordning I",
+    "text": "Samordning I\n… kan ske vertikalt genom\n\nMakt/hierarkisk position\nRegler och policies\nPlanerings- och kontrollsystem"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#samordning-ii",
+    "href": "2026-03-02_blomberg.html#samordning-ii",
+    "title": "Projektledning à la Blomberg",
+    "section": "Samordning II",
+    "text": "Samordning II\n… kan ske lateralt genom\n\nMöten\nProjektgrupper\nSamordningsroller\nMatrisstrukturer\nNätverk"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#strukturella-konfigurationer-h-mintzberg",
+    "href": "2026-03-02_blomberg.html#strukturella-konfigurationer-h-mintzberg",
+    "title": "Projektledning à la Blomberg",
+    "section": "Strukturella konfigurationer, H Mintzberg",
+    "text": "Strukturella konfigurationer, H Mintzberg\n\n  \n  Strategisk topp\n  Teknostruktur\n  Stödfunktion\n  Mellanchefer\n  Operativ kärna"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#enkel-struktur",
+    "href": "2026-03-02_blomberg.html#enkel-struktur",
+    "title": "Projektledning à la Blomberg",
+    "section": "Enkel struktur",
+    "text": "Enkel struktur\n\nStruktur: Enkel\nTyp av org.: Små företag\nStyrkor: Flexibel\nSvagheter: Obenägenhet till förändring"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#maskinbyråkrati",
+    "href": "2026-03-02_blomberg.html#maskinbyråkrati",
+    "title": "Projektledning à la Blomberg",
+    "section": "Maskinbyråkrati",
+    "text": "Maskinbyråkrati\n\nStruktur: Formaliserade och specialiserade roller/rutiner\nTyp av org: Producenter av standardiserade varor/tjänster\nStyrkor: Främjar inre effektivitet, enhetlighet och förutsägbarhet\nSvagheter: Trögrörlig"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#professionsbyråkrati",
+    "href": "2026-03-02_blomberg.html#professionsbyråkrati",
+    "title": "Projektledning à la Blomberg",
+    "section": "Professionsbyråkrati",
+    "text": "Professionsbyråkrati\n\nStruktur: Decentraliserad\nTyp av org: Professions-organisationer\nStyrkor: Inre och yttre effektivitet på decentraliserad nivå\nSvagheter: Samordning och kontroll försvåras"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#divisionaliserad-form",
+    "href": "2026-03-02_blomberg.html#divisionaliserad-form",
+    "title": "Projektledning à la Blomberg",
+    "section": "Divisionaliserad form",
+    "text": "Divisionaliserad form\n\nStruktur: Divisionaliserad (ex produkt,marknad)\nTyp av org: Konglomerat med många produkter/ tjänster\nStyrkor: Anpassningsbar, kan utnyttja synergier och resurser\nSvagheter: Risk för konflikter och kortsiktighet"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#adhocrati",
+    "href": "2026-03-02_blomberg.html#adhocrati",
+    "title": "Projektledning à la Blomberg",
+    "section": "Adhocrati",
+    "text": "Adhocrati\n\nStruktur: ‘Organisk’, temporär\nTyp av org: Temporära organisationer; projekt\nStyrkor: Innovativ och föränderlig i enlighet med skiftande krav\nSvagheter: Resurskrävande, svårkontrollerbar"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#vilken-struktur-bör-organisationen-ha",
+    "href": "2026-03-02_blomberg.html#vilken-struktur-bör-organisationen-ha",
+    "title": "Projektledning à la Blomberg",
+    "section": "Vilken struktur bör organisationen ha?",
+    "text": "Vilken struktur bör organisationen ha?\n\n\n\n\n\n\n\n\nDimension\nSituationsberoende\n\n\n\n\nStorlek och ålder\nJu större och äldre verksamhet, desto mer formaliserade processer och hierarkiska strukturer\n\n\nCentrala processer och kärnteknologi\nJu högre grad av komplexitet i centrala processer och kärnteknologi, desto mindre formalisering och hierarki\n\n\nOmgivning\nJu högre osäkerhet och turbulens i omgivningen, desto mindre formalisering och hierarki\n\n\nStrategi\nJu mer “hi-end”, det vill säga hög kvalitet och högteknologi, desto mindre formalisering och hierarki\n\n\nInformationsteknologi\nJu mer utvecklad informationsteknologi, desto mer decentraliserad organisation och mindre antal mellanchefer, men även mer centralisering och vertikal kontroll\n\n\nArbetskraft\nJu mer högutbildad och kunnig arbetskraft, desto mindre formalisering och hierarki"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#omstrukturering-i",
+    "href": "2026-03-02_blomberg.html#omstrukturering-i",
+    "title": "Projektledning à la Blomberg",
+    "section": "Omstrukturering I",
+    "text": "Omstrukturering I\nInterna drivkrafter\n\nStrategisk ledning eftersträvar centralisering\nMellanchefer eftersträvar decentralisering\nTeknostrukturen eftersträvar standardisering\nStaben eftersträvar samarbete\nOperativa kärnan eftersträvar större frihet och mindre påverkan från andra i organisationen"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#omstrukturering-ii",
+    "href": "2026-03-02_blomberg.html#omstrukturering-ii",
+    "title": "Projektledning à la Blomberg",
+    "section": "Omstrukturering II",
+    "text": "Omstrukturering II\nExterna drivkrafter - anpassning till…\n\nFörändringar i omgivningen\nFörändrad teknologi\nNy chef\nOrganisatorisk tillväxt"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#kritiken-mot-strukturperspektivet",
+    "href": "2026-03-02_blomberg.html#kritiken-mot-strukturperspektivet",
+    "title": "Projektledning à la Blomberg",
+    "section": "Kritiken mot strukturperspektivet",
+    "text": "Kritiken mot strukturperspektivet\n\nMänniskosyn\n”Ett av de viktigaste kraven på en man som lämpar sig till att hantera tackjärn som fast yrke är att han skall vara så dum och flegmatisk att han mentalt sett mer liknar en oxe än någon annan typ” (Taylor, 1911/1913, s. 59)\n”Rätt man på rätt plats”"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#hr-klassiker",
+    "href": "2026-03-02_blomberg.html#hr-klassiker",
+    "title": "Projektledning à la Blomberg",
+    "section": "HR-klassiker",
+    "text": "HR-klassiker\n\n\nI Robert Owens och Karl Marx fotspår…\nHugo Münsterberg (1912):\n\n”Rätt man på rätt plats” genom psykologiska tester\n\nElton Mayo\n\nHawthornestudien (1927) -&gt; Human Relations-skolan\n\nPrestation != Testad förmåga\nPsykosocial tillfredsställelse viktigare än ”förmåga”\nKollektiv handling viktigare än individuell handling\nArbetsledning: rådgiving ”ansikte mot ansikte”"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#hr-perspektivet-grundläggande-antaganden",
+    "href": "2026-03-02_blomberg.html#hr-perspektivet-grundläggande-antaganden",
+    "title": "Projektledning à la Blomberg",
+    "section": "HR-perspektivet grundläggande antaganden",
+    "text": "HR-perspektivet grundläggande antaganden\n\nOrganisationer ska tillfredsställa mänskliga behov\n\n(Organisationer finns till för att uppfylla människors behov, inte tvärtom)\n(Människor och organisationer behöver varandra. Organisationerna behöver idéer, energi, kunskaper och färdigheter; människor behöver lön och möjligheter att utvecklas och göra karriär)"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#hr-perspektivet-grundläggande-antaganden-1",
+    "href": "2026-03-02_blomberg.html#hr-perspektivet-grundläggande-antaganden-1",
+    "title": "Projektledning à la Blomberg",
+    "section": "HR-perspektivet grundläggande antaganden",
+    "text": "HR-perspektivet grundläggande antaganden\n\nOrganisationers & människors behov måste stämma överens\n\n(När överensstämmelsen mellan individ och system är dålig blir minst en av parterna lidande. Antingen utnyttjar organisationen människorna eller tvärtom, eller så går båda förlorande ur spelet.\nNär överensstämmelsen mellan individ och system är god tjänar båda parter på det. Individen får ett meningsfullt arbete som skänker dem tillfredsställelse och organisationen får den kunskap och energi som krävs för att lyckas.)\n\nMänniskan är en komplex biologisk och (social)psykologisk varelse"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#organisationsbehov",
+    "href": "2026-03-02_blomberg.html#organisationsbehov",
+    "title": "Projektledning à la Blomberg",
+    "section": "Organisationsbehov?",
+    "text": "Organisationsbehov?\n\nFråga 1:\n\nKan man verkligen säga att organisationer har behov?\n\nFråga 2:\n\nVem definierar organisationens behov?\n\nNotera:\n\nDen organisatoriska behovsanalysen lyser allt som oftast med sin frånvaro! Det tas för givet att organisationer behöver idéer, kunskaper och energi."
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#vilka-behov-har-medarbetare",
+    "href": "2026-03-02_blomberg.html#vilka-behov-har-medarbetare",
+    "title": "Projektledning à la Blomberg",
+    "section": "Vilka behov har medarbetare?",
+    "text": "Vilka behov har medarbetare?"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#chefsskap",
+    "href": "2026-03-02_blomberg.html#chefsskap",
+    "title": "Projektledning à la Blomberg",
+    "section": "Chefsskap",
+    "text": "Chefsskap\n\n(management) kontra ledarskap"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#är-vs-bör-frågor-utifrån-ett-hr-perspektiv",
+    "href": "2026-03-02_blomberg.html#är-vs-bör-frågor-utifrån-ett-hr-perspektiv",
+    "title": "Projektledning à la Blomberg",
+    "section": "Är vs bör-frågor utifrån ett HR-perspektiv",
+    "text": "Är vs bör-frågor utifrån ett HR-perspektiv\n\n\nVilka behov har medarbetarna i organisationen respektive organisationen? Tillgodoses de?\n\n\nVilka behov bör medarbetarna i organisationen respektive organisationen ha? Tillgodoses de?\n\n\nvs 2) Behövs en ny HR-strategi?"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#två-grundläggande-hr-strategier",
+    "href": "2026-03-02_blomberg.html#två-grundläggande-hr-strategier",
+    "title": "Projektledning à la Blomberg",
+    "section": "Två grundläggande HR-strategier",
+    "text": "Två grundläggande HR-strategier\n\nInvestera i människor: Human Resources\nAnsvarsfördelning och omstrukturering av arbetet:\nHuman Relations"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#investera-i-människor",
+    "href": "2026-03-02_blomberg.html#investera-i-människor",
+    "title": "Projektledning à la Blomberg",
+    "section": "Investera i människor",
+    "text": "Investera i människor\n\n… att anställa rätt personer och att belöna dem på ett riktigt sätt\n\nRekrytera och belöna\nAtt ge trygghet\nInternrekrytering\nUtbildning och kompetensutveckling\nVinstdelning"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#affärsidé-vs-personalidé",
+    "href": "2026-03-02_blomberg.html#affärsidé-vs-personalidé",
+    "title": "Projektledning à la Blomberg",
+    "section": "Affärsidé vs Personalidé",
+    "text": "Affärsidé vs Personalidé\n\nPersonalidé\n\nImageidé\nRekryteringsidé\nUtvecklingsidé\nAvvecklingsidé"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#investeringsrationalitet",
+    "href": "2026-03-02_blomberg.html#investeringsrationalitet",
+    "title": "Projektledning à la Blomberg",
+    "section": "Investeringsrationalitet",
+    "text": "Investeringsrationalitet\n\nInvestering - avkastning\nMänniskan = en resurs vilken som helst, d v s förbrukbar\nHuman Resource Management: ”Moderniteten i ett nötskal”\n\nIdentifikation\nSegregation\nHierarkisering"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#ansvarsfördelning-och-omstrukturering-av-arbetet",
+    "href": "2026-03-02_blomberg.html#ansvarsfördelning-och-omstrukturering-av-arbetet",
+    "title": "Projektledning à la Blomberg",
+    "section": "Ansvarsfördelning och omstrukturering av arbetet",
+    "text": "Ansvarsfördelning och omstrukturering av arbetet\n\nInvestera i människor inte tillräckligt för att skapa engagemang.\nArbetet i sig måste innehålla:\n\nSjälvständighet och medinflytande\nArbetsberikning och resursutnyttjande\nLagarbete\nDemokrati och jämlikhet"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#kritik-mot-hr-perspektivet",
+    "href": "2026-03-02_blomberg.html#kritik-mot-hr-perspektivet",
+    "title": "Projektledning à la Blomberg",
+    "section": "Kritik mot HR-perspektivet",
+    "text": "Kritik mot HR-perspektivet\n\nRomantisk syn på människan?\nNaiv syn på matchning?\nAkademiska medelklassvärderingar?\nIgnorerar individuella olikheter?\nGår maktens cyniska ärenden?\nUtnyttja resurser eller respektera människan som social varelse?"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#hr-perspektivets-skakiga-empiriska-stöd",
+    "href": "2026-03-02_blomberg.html#hr-perspektivets-skakiga-empiriska-stöd",
+    "title": "Projektledning à la Blomberg",
+    "section": "HR-perspektivets skakiga empiriska stöd",
+    "text": "HR-perspektivets skakiga empiriska stöd\n\n\n\n\nHR-perspektivet antar: \n\n\nVissa studier visar:"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#makt---ett-knepigt-begrepp-med-en-knepig-historia",
+    "href": "2026-03-02_blomberg.html#makt---ett-knepigt-begrepp-med-en-knepig-historia",
+    "title": "Projektledning à la Blomberg",
+    "section": "Makt - ett ”knepigt” begrepp med en ”knepig” historia",
+    "text": "Makt - ett ”knepigt” begrepp med en ”knepig” historia\n\nMakt är att få någon att göra något som han/hon annars inte skulle göra. (Dahl, 1958)\nMakt är den ”potentiella förmågan att påverka beteenden, ändra handlingsförlopp, övervinna motstånd, och få människor att göra sådant som de annars inte skulle ha gjort.” (Pfeffer, 1992, B&D, s 234-235)\nMakt handlar om ”förmågan att få någonting gjort.” (Bolman och Deal, s. 234)\nMakt är produktiv; den producerar verklighet (Foucault, 1975)"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#några-viktiga-maktaspekter",
+    "href": "2026-03-02_blomberg.html#några-viktiga-maktaspekter",
+    "title": "Projektledning à la Blomberg",
+    "section": "Några viktiga maktaspekter",
+    "text": "Några viktiga maktaspekter\n\nAuktoritet vs. makt\nMikromakt vs makromakt\nPartikulär vs universell\nÖppen eller dold makt\nMakt att vs. makt över…\n… makt över tanken"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#maktperspektivets-grundantaganden",
+    "href": "2026-03-02_blomberg.html#maktperspektivets-grundantaganden",
+    "title": "Projektledning à la Blomberg",
+    "section": "Maktperspektivets grundantaganden",
+    "text": "Maktperspektivets grundantaganden\n\n\nOrganisationer är koalitioner som består av många olika och olikartade individer och intressegrupper.\nMellan koalitionsmedlemmarna finns det bestående skillnader i värderingar, åsikter, information, intressen och tolkningar av verkligheten.\nHuvuddelen av alla viktiga beslut handlar om fördelning av knappa resurser, dvs om vem som får vad.\nKnappa resurser och bestående skillnader ger konflikter en central plats i organisationsdynamiken och gör makt till den viktigaste tillgången.\nMål och beslut växer fram genom förhandling, köpslående och tävlande om bra positioner mellan konkurrerande intressenter."
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#är-vs-bör-frågor-utifrån-ett-maktperspektiv",
+    "href": "2026-03-02_blomberg.html#är-vs-bör-frågor-utifrån-ett-maktperspektiv",
+    "title": "Projektledning à la Blomberg",
+    "section": "Är vs bör-frågor utifrån ett maktperspektiv",
+    "text": "Är vs bör-frågor utifrån ett maktperspektiv\n\nHur är makten fördelad i organisationen?\n\n\nFörekommer öppna maktkamper?\n\n\nHur borde makten vara fördelad i organisationen?\n\n\nBorde det förekomma öppna maktkamper? ’\n\nvs 2): Bör makten omfördelas?"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#hur-är-makten-fördelad-i-organisationen",
+    "href": "2026-03-02_blomberg.html#hur-är-makten-fördelad-i-organisationen",
+    "title": "Projektledning à la Blomberg",
+    "section": "Hur är makten fördelad i organisationen?",
+    "text": "Hur är makten fördelad i organisationen?\n\nVem/vilka besitter olika maktbaser?"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#förekommer-konflikt-och-kamp",
+    "href": "2026-03-02_blomberg.html#förekommer-konflikt-och-kamp",
+    "title": "Projektledning à la Blomberg",
+    "section": "Förekommer konflikt och kamp?",
+    "text": "Förekommer konflikt och kamp?"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#olika-typer-av-konflikt",
+    "href": "2026-03-02_blomberg.html#olika-typer-av-konflikt",
+    "title": "Projektledning à la Blomberg",
+    "section": "Olika typer av konflikt",
+    "text": "Olika typer av konflikt\n\nHorisontella konflikter\n\nDifferentiering - integrering\nOlika mål/intressen mellan olika enheter\nBeroenden mellan uppgifter, grupper och koalitioner\nResursfördelning mellan olika enheter\n\nVertikala konflikter\n\nTop/down"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#maktfördelning---konflikter---politik",
+    "href": "2026-03-02_blomberg.html#maktfördelning---konflikter---politik",
+    "title": "Projektledning à la Blomberg",
+    "section": "Maktfördelning - konflikter - politik",
+    "text": "Maktfördelning - konflikter - politik\n\nÖverdeterminerade system\nUnderdeterminerade system\nNär intressen kolliderar = konflikt\n\nFör mycket eller lite?\n\nPolitik = konflikthantering"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#maktens-dubbla-organisatoriska-dimensioner",
+    "href": "2026-03-02_blomberg.html#maktens-dubbla-organisatoriska-dimensioner",
+    "title": "Projektledning à la Blomberg",
+    "section": "Maktens dubbla organisatoriska dimensioner",
+    "text": "Maktens dubbla organisatoriska dimensioner\n\nOrganisationer som politiska arenor\nOrganisationer som politiska aktörer"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#kritik-mot-maktperspektivet",
+    "href": "2026-03-02_blomberg.html#kritik-mot-maktperspektivet",
+    "title": "Projektledning à la Blomberg",
+    "section": "Kritik mot maktperspektivet",
+    "text": "Kritik mot maktperspektivet\n\nCyniskt?\nGör allting till politik?"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#symboler-och-deras-verkan",
+    "href": "2026-03-02_blomberg.html#symboler-och-deras-verkan",
+    "title": "Projektledning à la Blomberg",
+    "section": "Symboler och deras verkan",
+    "text": "Symboler och deras verkan\n\nSymbol: Från grekiskan, ’tecken’\nRepresentation: Vi ser något som något för att gestalta det symbolen inte är, för att därigenom förstå det bättre."
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#symbolperspektivets-grundläggande-antaganden",
+    "href": "2026-03-02_blomberg.html#symbolperspektivets-grundläggande-antaganden",
+    "title": "Projektledning à la Blomberg",
+    "section": "Symbolperspektivets grundläggande antaganden",
+    "text": "Symbolperspektivets grundläggande antaganden\n\nDet viktiga är inte vad som händer utan vad det betyder.\nAktivitet och mening är löst kopplade till varandra - händelser får olika mening därför att människor tolkar erfarenheter på olika sätt.\nFör att kunna hantera den osäkerhet och mångtydighet som vi ställs inför i våra dagliga liv skapar vi människor symboler som minskar förvirringen, ökar förutsägbarheten och gör det möjligt att finna en riktning och förankra hopp och tro.\nMånga händelser och processer är av större vikt för det som uttrycks än för det som produceras. De bildar en kulturell gobeläng av sekulariserade myter, hjältar och hjältinnor, ritualer, ceremonier och historier som hjälper människor att finna glädje och mening både privat och i arbetslivet.\nKultur är det kitt som håller samman organisationer och som samlar människor kring en gemensam uppsättning värderingar och övertygelser."
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#är-vs-bör-frågor-utifrån-ett-symbolperspektiv",
+    "href": "2026-03-02_blomberg.html#är-vs-bör-frågor-utifrån-ett-symbolperspektiv",
+    "title": "Projektledning à la Blomberg",
+    "section": "Är vs bör-frågor utifrån ett symbolperspektiv",
+    "text": "Är vs bör-frågor utifrån ett symbolperspektiv\n\nVad för slags kultur råder i organisationen?\n\n\nInnehåll? Stark eller svag? Homogen eller heterogen?\n\n\nVad för slags kultur borde råda i organisationen?\n\n\nInnehåll? Stark eller svag? Homogen eller heterogen?\n\nvs 2) Behövs en kulturförändring?"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#edgar-scheins-definition-av-kultur",
+    "href": "2026-03-02_blomberg.html#edgar-scheins-definition-av-kultur",
+    "title": "Projektledning à la Blomberg",
+    "section": "Edgar Scheins definition av kultur",
+    "text": "Edgar Scheins definition av kultur\n\n“… ett mönster av grundläggande antaganden som en grupp har lärt sig då den löst sina problem med anpassning till omgivningen och intern samordning, på sätt som fungerat bra nog att uppfattas som riktiga och därför lärs ut till nya medlemmar som det rätta sättet att erfara, tänka och känna i relation till de problemen.” (Schein 2004, s. 17)"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#vad-för-slags-kultur-har-organisationen",
+    "href": "2026-03-02_blomberg.html#vad-för-slags-kultur-har-organisationen",
+    "title": "Projektledning à la Blomberg",
+    "section": "Vad för slags kultur har organisationen?",
+    "text": "Vad för slags kultur har organisationen?"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#olika-typer-av-organisationssymboler",
+    "href": "2026-03-02_blomberg.html#olika-typer-av-organisationssymboler",
+    "title": "Projektledning à la Blomberg",
+    "section": "Olika typer av organisationssymboler",
+    "text": "Olika typer av organisationssymboler\n\nMyter, visioner och värderingar\nHjältar och hjältinnor\nHistorier, berättelser, sagor\nVanor och ritualer\nCeremonier\nMetaforer, humor, lek"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#organisation-som-teater",
+    "href": "2026-03-02_blomberg.html#organisation-som-teater",
+    "title": "Projektledning à la Blomberg",
+    "section": "Organisation som teater",
+    "text": "Organisation som teater\n\n\nInfria förväntningar, skapa legitimitet och mening\n\nAttrahera betalande publik (kunder, investerare, leverantörer etc)\n\nOrganisatoriska strukturer och processer\n\nHa ”rätt” roller\nSpela ”rätt” repertoar och ha ”rätt” rekvisita\n\nExempel på teaterföreställningar:\n\nMöten\nStrategidokument (”mission” och ”vision”)\nJämställdhetsplaner\nUtvärderingar\nMedarbetarenkäter"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#kritik-mot-symbolperspektivet",
+    "href": "2026-03-02_blomberg.html#kritik-mot-symbolperspektivet",
+    "title": "Projektledning à la Blomberg",
+    "section": "Kritik mot symbolperspektivet",
+    "text": "Kritik mot symbolperspektivet\n\nAllt för stark betoning på det gemensamma. Alla sitter inte ”i samma båt’.\nBristande legitimitet i en alltjämt rationalistiskt definierad värld."
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#genusperspektiv-på-strukturperspektivet",
+    "href": "2026-03-02_blomberg.html#genusperspektiv-på-strukturperspektivet",
+    "title": "Projektledning à la Blomberg",
+    "section": "Genusperspektiv på strukturperspektivet",
+    "text": "Genusperspektiv på strukturperspektivet\n\n\nStrukturperspektivet är i grunden ”könsblint”\nVar finns kvinnor och män i organisationernas strukturer?\nYvonne Hirdmans ”könsmaktsordning”\n\nKvinnor och män är segregerade och Hierarkiserade i samhället\nMannen är norm\n\nArbetsdelningen är könsmärkt\nRoller, organisationer och branscher är könsmärkta\nGruppers sammansättning majoritet/minoritet\n\nSynlighet, kontrast, assimilering\n\n\n\n\nRosabeth Moss Kanter Men and Women of the Corporation (1977) Wahl, m fl (2001: 68ff och 108-110)"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#genusperspektiv-på-hr-perspektivet",
+    "href": "2026-03-02_blomberg.html#genusperspektiv-på-hr-perspektivet",
+    "title": "Projektledning à la Blomberg",
+    "section": "Genusperspektiv på HR-perspektivet",
+    "text": "Genusperspektiv på HR-perspektivet\n\n\nVems behov tillgodoses i organisationer?\nAntas kvinnor och män ha olika behov?\n\nGes män och kvinnor lika lön för lika arbete?\n\nGes kvinnor och män samma möjligheter?\nÄr ”kompetens” ett könsneutralt fenomen?\n’Glastaket’ (Breaking the glass ceiling, Morrison, White and van Velsor 1987)\n\nStressen av att vara föregångare\nStressen av att ta dubbelt ansvar (arbete och familj)\nFramgång kräver anpassning till status quo"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#genusperspektiv-på-maktperspektivet",
+    "href": "2026-03-02_blomberg.html#genusperspektiv-på-maktperspektivet",
+    "title": "Projektledning à la Blomberg",
+    "section": "Genusperspektiv på maktperspektivet",
+    "text": "Genusperspektiv på maktperspektivet\n\n\nHur är makten fördelad mellan män och kvinnor i organisationer?\n\nMaktbaser?\nFormell makt?\nInformell makt?\n\nKönsneutrala tolkningsföreträden och problemformuleringsprivilegier?\n”Homosocialitet” - könsmaktsordningens reproduktion"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#genusperspektiv-på-symbolperspektivet",
+    "href": "2026-03-02_blomberg.html#genusperspektiv-på-symbolperspektivet",
+    "title": "Projektledning à la Blomberg",
+    "section": "Genusperspektiv på symbolperspektivet",
+    "text": "Genusperspektiv på symbolperspektivet\n\n\nKönsmärkta kulturer?\n\nArtefakter\nVärderingar\nGrundläggande antaganden\n\nAtt se företeelser som symboler för rationalitet och tradition reproducerat av (och för) män?\nMannen som (kulturell) norm - Kvinnan som normbrytare\n\nTokenism\n\nSpråkets gestaltande karaktär\n\nHur skildras fenomen?"
+  },
+  {
+    "objectID": "2026-03-02_blomberg.html#section",
+    "href": "2026-03-02_blomberg.html#section",
+    "title": "Projektledning à la Blomberg",
     "section": "",
-    "text": "Introduktion\nProjektledning\nGruppdynamik\n\n\n\nCaveat Emptor: parts of these slides have been generated with the help of Claude"
+    "text": "Erkännande\nDetta material är anpassat från en föreläsning av Daniel Ericsson, Institutionen för kulturvetenskaper, Lunds universitet, 2024."
   },
   {
     "objectID": "2026-02-19_projektledning.html#section",
@@ -369,5 +866,383 @@
     "title": "Projektledning",
     "section": "",
     "text": "Erkännande\nDetta material är anpassat från en föreläsning av Cecilia Andersson och Ann-Sofie Klareld, Lunds universitet, 2025."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "DIKA44",
+    "section": "",
+    "text": "Introduktion\nProjektledning\nGruppdynamik\nProjekt som organisationsform\nFyra perspektiv\nGenomförande och rapportering"
+  },
+  {
+    "objectID": "index.html#föreläsningar",
+    "href": "index.html#föreläsningar",
+    "title": "DIKA44",
+    "section": "",
+    "text": "Introduktion\nProjektledning\nGruppdynamik\nProjekt som organisationsform\nFyra perspektiv\nGenomförande och rapportering"
+  },
+  {
+    "objectID": "index.html#erkännande",
+    "href": "index.html#erkännande",
+    "title": "DIKA44",
+    "section": "Erkännande",
+    "text": "Erkännande\nDelar av detta material har anpassats från föreläsningar av:\n\nAnn-Sofie Klareld\nCecilia Andersson\nDaniel Ericsson\nNikos Macheridis\n\nTack för ert arbete och era bidrag till kursen.\n\n\nCaveat Emptor: parts of these slides have been generated with the help of Claude"
+  },
+  {
+    "objectID": "2026-02-20_gruppdynamik.html#section",
+    "href": "2026-02-20_gruppdynamik.html#section",
+    "title": "Gruppdynamik",
+    "section": "",
+    "text": "Caveat Emptor: parts of these slides have been generated with the help of Claude"
+  },
+  {
+    "objectID": "2026-02-20_gruppdynamik.html#grupp-arbetsgrupp-team",
+    "href": "2026-02-20_gruppdynamik.html#grupp-arbetsgrupp-team",
+    "title": "Gruppdynamik",
+    "section": "Grupp / arbetsgrupp / team",
+    "text": "Grupp / arbetsgrupp / team"
+  },
+  {
+    "objectID": "2026-02-20_gruppdynamik.html#synergi",
+    "href": "2026-02-20_gruppdynamik.html#synergi",
+    "title": "Gruppdynamik",
+    "section": "Synergi",
+    "text": "Synergi\n\nSamarbetsvinst\nMervärde\nSamverkan mellan flera faktorer\nHelheten är större än summan av delarna"
+  },
+  {
+    "objectID": "2026-02-20_gruppdynamik.html#målbild",
+    "href": "2026-02-20_gruppdynamik.html#målbild",
+    "title": "Gruppdynamik",
+    "section": "Målbild",
+    "text": "Målbild\n\nFör att styrningen ska fungera krävs att organisationen (i detta fall projektet) aktivt tolkar intentionerna med verksamheten\nProjektledaren har en viktig roll i detta"
+  },
+  {
+    "objectID": "2026-02-20_gruppdynamik.html#smarta-mål",
+    "href": "2026-02-20_gruppdynamik.html#smarta-mål",
+    "title": "Gruppdynamik",
+    "section": "Smarta mål",
+    "text": "Smarta mål\n\nSpecific – tydligt, konkret, vad ska uppnås?\nMeasurable – mätbart, kvantifierbart, hur många, hur mycket?\nAssignable – vem är ansvarig för vad?\nRealistic – vad är möjligt inom ramarna för befintliga resurser?\nTime-related – när ska målet ha uppnåtts?"
+  },
+  {
+    "objectID": "2026-02-20_gruppdynamik.html#vilka-tidsramar-har-era-projekt",
+    "href": "2026-02-20_gruppdynamik.html#vilka-tidsramar-har-era-projekt",
+    "title": "Gruppdynamik",
+    "section": "Vilka tidsramar har era projekt?",
+    "text": "Vilka tidsramar har era projekt?"
+  },
+  {
+    "objectID": "2026-02-20_gruppdynamik.html#tidsramar",
+    "href": "2026-02-20_gruppdynamik.html#tidsramar",
+    "title": "Gruppdynamik",
+    "section": "Tidsramar",
+    "text": "Tidsramar\n\nGrupp Blue:\nGrupp HotDogs:\nGrupp Star:\nGrupp Vintergatan:\nGrupp 5:\nGrupp 6:"
+  },
+  {
+    "objectID": "2026-02-20_gruppdynamik.html#strukturella-egenskaper",
+    "href": "2026-02-20_gruppdynamik.html#strukturella-egenskaper",
+    "title": "Gruppdynamik",
+    "section": "Strukturella egenskaper",
+    "text": "Strukturella egenskaper\n\nHur lag kan eller bör vara uppbyggda\nAntal personer\nVilka personer?\nVilka uppgifter?"
+  },
+  {
+    "objectID": "2026-02-20_gruppdynamik.html#kompetens",
+    "href": "2026-02-20_gruppdynamik.html#kompetens",
+    "title": "Gruppdynamik",
+    "section": "Kompetens",
+    "text": "Kompetens\n\nSpecialist\nLagspelare\nProfession\nLaget och individerna skapar varandra"
+  },
+  {
+    "objectID": "2026-02-20_gruppdynamik.html#ledarskap",
+    "href": "2026-02-20_gruppdynamik.html#ledarskap",
+    "title": "Gruppdynamik",
+    "section": "Ledarskap",
+    "text": "Ledarskap\n\nKan organiseras på olika sätt\nTillit är viktigt\nLikaså transparens\nKonflikthantering\n”Kultur”"
+  },
+  {
+    "objectID": "2026-02-20_gruppdynamik.html#organisatoriskt-sammanhang",
+    "href": "2026-02-20_gruppdynamik.html#organisatoriskt-sammanhang",
+    "title": "Gruppdynamik",
+    "section": "Organisatoriskt sammanhang",
+    "text": "Organisatoriskt sammanhang\n\nYttre faktorer\nOmvärlden\nInre faktorer\nVilka organisatoriska sammanhang är relevanta i era projektplaner?\n\n\n\nYttre faktorer: tid, resurser, officiella mål, miljö, klienter\nOmvärlden: ideologier, politiska förhållanden, trender, samhällsutveckling, lagstiftning, regelverk, stammedlemmarnas utbildning, lön, legitimation\nInre faktorer: människors föreställningar, attityder, tankar, känslor, beteendemönster, sättet att samarbeta, informella roller"
+  },
+  {
+    "objectID": "2026-02-20_gruppdynamik.html#vilka-organisatoriska-sammanhang-är-aktuella-i-era-projekt",
+    "href": "2026-02-20_gruppdynamik.html#vilka-organisatoriska-sammanhang-är-aktuella-i-era-projekt",
+    "title": "Gruppdynamik",
+    "section": "Vilka organisatoriska sammanhang är aktuella i era projekt?",
+    "text": "Vilka organisatoriska sammanhang är aktuella i era projekt?"
+  },
+  {
+    "objectID": "2026-02-20_gruppdynamik.html#organisatoriska-sammanhang",
+    "href": "2026-02-20_gruppdynamik.html#organisatoriska-sammanhang",
+    "title": "Gruppdynamik",
+    "section": "Organisatoriska sammanhang",
+    "text": "Organisatoriska sammanhang\n\nGrupp Blue:\nGrupp HotDogs:\nGrupp Star:\nGrupp Vintergatan:\nGrupp 5:\nGrupp 6:"
+  },
+  {
+    "objectID": "2026-02-20_gruppdynamik.html#gruppteorier",
+    "href": "2026-02-20_gruppdynamik.html#gruppteorier",
+    "title": "Gruppdynamik",
+    "section": "Gruppteorier",
+    "text": "Gruppteorier\n\nPrimärgrupp: medlemmarna känner varandra väl och är starkt beroende av varandra\nSekundärgrupp: kan präglas både av tillfälliga och mer långvariga relationer men medlemmarna har inte samma närhet till varandra som i primärgruppen\nGrupptänkande: grupper kan agera på ett sätt som ingen i gruppen egentligen vill (Blomberg s. 237-240)"
+  },
+  {
+    "objectID": "2026-02-20_gruppdynamik.html#fyra-grundläggande-perspektiv",
+    "href": "2026-02-20_gruppdynamik.html#fyra-grundläggande-perspektiv",
+    "title": "Gruppdynamik",
+    "section": "Fyra grundläggande perspektiv",
+    "text": "Fyra grundläggande perspektiv"
+  },
+  {
+    "objectID": "2026-02-20_gruppdynamik.html#arbetsklimat",
+    "href": "2026-02-20_gruppdynamik.html#arbetsklimat",
+    "title": "Gruppdynamik",
+    "section": "Arbetsklimat",
+    "text": "Arbetsklimat\n\nIndividens värderande helhetsupplevelse av kommunikationen på arbetsplatsen, en kvalitet i det sociala samspelet i framför allt den närmaste arbetsgruppen/teamet\nDynamiskt och beroende av sammanhanget\nBetydelse för:\n\nEgna upplevelser\nKvaliteten i arbetet\nKompetensutveckling"
+  },
+  {
+    "objectID": "2026-02-20_gruppdynamik.html#rok-osa",
+    "href": "2026-02-20_gruppdynamik.html#rok-osa",
+    "title": "Gruppdynamik",
+    "section": "RoK & OSA",
+    "text": "RoK & OSA\n\nRoK = Risk- och konsekvensanalys\nHandlar om att identifiera risker och planera för hur dessa ska hanteras\nOSA = Organisatorisk och social arbetsmiljö\nHandlar exempelvis om hur arbetsuppgifter fördelas, vilka krav som ställs på projektdeltagarna, hur beslut fattas och vilka samarbetsformer som finns. Social arbetsmiljö handlar exempelvis om hur man bemöter och stöttar varandra på arbetsplatsen"
+  },
+  {
+    "objectID": "2026-02-20_gruppdynamik.html#riskanalys",
+    "href": "2026-02-20_gruppdynamik.html#riskanalys",
+    "title": "Gruppdynamik",
+    "section": "Riskanalys",
+    "text": "Riskanalys"
+  },
+  {
+    "objectID": "2026-02-20_gruppdynamik.html#swot-analys",
+    "href": "2026-02-20_gruppdynamik.html#swot-analys",
+    "title": "Gruppdynamik",
+    "section": "SWOT-analys",
+    "text": "SWOT-analys\n\n\n\n\nPositivt\nNegativt\n\n\n\n\nInternt\nStrengths\nWeaknesses\n\n\nExternt\nOpportunities\nThreats\n\n\n\n\nKartlägger projektets förutsättningar ur fyra perspektiv\nStyrkor och svagheter = det ni kan påverka\nMöjligheter och hot = omvärldsfaktorer att förhålla sig till"
+  },
+  {
+    "objectID": "2026-02-20_gruppdynamik.html#swot-analys-exempel",
+    "href": "2026-02-20_gruppdynamik.html#swot-analys-exempel",
+    "title": "Gruppdynamik",
+    "section": "SWOT-analys – exempel",
+    "text": "SWOT-analys – exempel\nProjekt: Utveckla en ny digital tjänst för kommuninvånare\n\n\nStyrkor\n\nEngagerad projektgrupp\nStark IT-kompetens internt\n\nMöjligheter\n\nÖkad efterfrågan på digitala tjänster\nMöjlighet till extern finansiering\n\n\nSvagheter\n\nBegränsad budget\nKort tidsram\n\nHot\n\nFörändrad politisk prioritering\nTeknikskifte under projektets gång"
+  },
+  {
+    "objectID": "2026-02-20_gruppdynamik.html#risker",
+    "href": "2026-02-20_gruppdynamik.html#risker",
+    "title": "Gruppdynamik",
+    "section": "Risker",
+    "text": "Risker\n\nGrupp Blue:\nGrupp HotDogs:\nGrupp Star:\nGrupp Vintergatan:\nGrupp 5:\nGrupp 6:"
+  },
+  {
+    "objectID": "2026-02-20_gruppdynamik.html#hälsosamt-arbete",
+    "href": "2026-02-20_gruppdynamik.html#hälsosamt-arbete",
+    "title": "Gruppdynamik",
+    "section": "Hälsosamt arbete",
+    "text": "Hälsosamt arbete\n\nProjektledare företräder både arbetsgivarens och projektgruppens perspektiv\nDet kan leda till vissa utmaningar\nReflektion & dialog viktigt"
+  },
+  {
+    "objectID": "2026-02-20_gruppdynamik.html#hälsa-välbefinnande",
+    "href": "2026-02-20_gruppdynamik.html#hälsa-välbefinnande",
+    "title": "Gruppdynamik",
+    "section": "Hälsa & välbefinnande",
+    "text": "Hälsa & välbefinnande\n\nVälbefinnande och hälsa är viktiga faktorer att ta med i beräkningarna som projektledare\nViktigt att hålla det på en rimlig nivå\nAlla kan inte vara på topp hela tiden\nGruppen och individen påverkar varandra och ett gott arbetsklimat har sin grund i hur individerna relaterar till varandra både på ett professionellt och på ett personligt plan"
+  },
+  {
+    "objectID": "2026-02-20_gruppdynamik.html#tyst-kunskap",
+    "href": "2026-02-20_gruppdynamik.html#tyst-kunskap",
+    "title": "Gruppdynamik",
+    "section": "Tyst kunskap",
+    "text": "Tyst kunskap"
+  },
+  {
+    "objectID": "2026-02-20_gruppdynamik.html#index",
+    "href": "2026-02-20_gruppdynamik.html#index",
+    "title": "Gruppdynamik",
+    "section": "Index",
+    "text": "Index"
+  },
+  {
+    "objectID": "2026-02-20_gruppdynamik.html#vad-ska-vi-mer-prata-om-idag",
+    "href": "2026-02-20_gruppdynamik.html#vad-ska-vi-mer-prata-om-idag",
+    "title": "Gruppdynamik",
+    "section": "Vad ska vi mer prata om idag?",
+    "text": "Vad ska vi mer prata om idag?"
+  },
+  {
+    "objectID": "2026-02-20_gruppdynamik.html#section-1",
+    "href": "2026-02-20_gruppdynamik.html#section-1",
+    "title": "Gruppdynamik",
+    "section": "",
+    "text": "Erkännande\nDetta material är anpassat från en föreläsning av Ann-Sofie Klareld, Lunds universitet, 2025."
+  },
+  {
+    "objectID": "2026-03-02_organisation.html#projekt",
+    "href": "2026-03-02_organisation.html#projekt",
+    "title": "Projekt som organisationsform",
+    "section": "Projekt",
+    "text": "Projekt\n\nFrån\n\nMilitära organisationer\nTekniska högskolar\nByggnadsbranschen och verkstadsindustri Leveransprojekt\nFokus på planer, effektivitet och rationalisering"
+  },
+  {
+    "objectID": "2026-03-02_organisation.html#projekt-1",
+    "href": "2026-03-02_organisation.html#projekt-1",
+    "title": "Projekt som organisationsform",
+    "section": "Projekt",
+    "text": "Projekt\n\nTill\n\nEkonomihögskolor och humaniora\nTjänstesektor, sjukhusmiljöer och kommunal verksamhet\nEtik, miljö och mångfald\nHänsyn till beställaren och effektmål\nOrganisationsorientering (mål och strategier, komplexitet i beslutsfattandet och kunskapsöverförering)"
+  },
+  {
+    "objectID": "2026-03-02_organisation.html#olika-sätt-att-betrakta-projekt",
+    "href": "2026-03-02_organisation.html#olika-sätt-att-betrakta-projekt",
+    "title": "Projekt som organisationsform",
+    "section": "Olika sätt att betrakta projekt",
+    "text": "Olika sätt att betrakta projekt\n\nOrganisera/Organisationsform\nArbeta/Arbetsform\nLära/Lärandeform"
+  },
+  {
+    "objectID": "2026-03-02_organisation.html#vad-är-projekt",
+    "href": "2026-03-02_organisation.html#vad-är-projekt",
+    "title": "Projekt som organisationsform",
+    "section": "Vad är projekt?",
+    "text": "Vad är projekt?\n\nSärdrag\nuppdrag/syfte (vad)\nEffektmål (varför, vad vill man nå med projektresultatet)\nLivscykel (definitions-, planerings-, genomförande- och reflektionsfas)\nResurser (människor/kompetens, teknologi etc.)\nOrganisation (fast och tillfällig)"
+  },
+  {
+    "objectID": "2026-03-02_organisation.html#vad-är-inte-projekt",
+    "href": "2026-03-02_organisation.html#vad-är-inte-projekt",
+    "title": "Projekt som organisationsform",
+    "section": "Vad är inte projekt?",
+    "text": "Vad är inte projekt?\n\nUnik / ”never been before”?\nUppdraget?\nProjektprocessen?\nVad är inte projekt?\nDet beror på!"
+  },
+  {
+    "objectID": "2026-03-02_organisation.html#projektintressenter",
+    "href": "2026-03-02_organisation.html#projektintressenter",
+    "title": "Projekt som organisationsform",
+    "section": "Projektintressenter",
+    "text": "Projektintressenter\n\nProjektägare/projektsponsor\nUppdragsgivare/beställare\nKunden, användare\nProjektledare, Projektgruppen\nStyrgrupp, referensgrupp, ….\nKan involvera flera avdelningar och professioner\nAndra?\nIntresse, krav och förväntningar – som kanske förändras medan projektet pågår\nProjektintressenters måttstock?"
+  },
+  {
+    "objectID": "2026-03-02_organisation.html#projektklassificering",
+    "href": "2026-03-02_organisation.html#projektklassificering",
+    "title": "Projekt som organisationsform",
+    "section": "Projektklassificering",
+    "text": "Projektklassificering\n\nInterna-Externa, Konkreta-\nÖppna, Komplexa-Enkla, Rutin-\nUnika, Nationella-Internationella,\nStrategiska-Operationella, mfl.\nKlassificering beror på/relaterar till: storlek, bransch, komplexitet, vikt/betydelse, risk, dynamik, mångfald, resursbehov mm.\nProjektklassificering är viktigt för att det påverkar projektets ledning och styrning!"
+  },
+  {
+    "objectID": "2026-03-02_organisation.html#projektklassificering-1",
+    "href": "2026-03-02_organisation.html#projektklassificering-1",
+    "title": "Projekt som organisationsform",
+    "section": "Projektklassificering –",
+    "text": "Projektklassificering –\n\nVirtuella/digitala projekt\nProjekt team som korsar tid, plats, organisationer och kulturella gränser\nKommunicerar med varandra oberoende tid och geografiska plats\nBygger snarare på kunskap än funktion\nChefens makt är begränsad, projektmedlemmar har stort inflytande\nIT/Internet stödjer"
+  },
+  {
+    "objectID": "2026-03-02_organisation.html#från-idé-till-projekt-sk-projektets-definitionsfas",
+    "href": "2026-03-02_organisation.html#från-idé-till-projekt-sk-projektets-definitionsfas",
+    "title": "Projekt som organisationsform",
+    "section": "Från idé till projekt, sk projektets definitionsfas",
+    "text": "Från idé till projekt, sk projektets definitionsfas\n\n\n\nBeställarens perspektiv\n\nVilka projektidéer ska väljas?\nHur ska det projektet finansieras?\nVem ska leverera projektresultat?\n\n\n\n\nUppdragstagares perspektiv\n\nSka en projektförfråga accepteras eller förkastas?\nBåde beställare och uppdragstagare kan finnas i samma organisation"
+  },
+  {
+    "objectID": "2026-03-02_organisation.html#urval-av-projekt-vilka-projekt-ska-vi-satsa-på",
+    "href": "2026-03-02_organisation.html#urval-av-projekt-vilka-projekt-ska-vi-satsa-på",
+    "title": "Projekt som organisationsform",
+    "section": "Urval av projekt: vilka projekt ska vi satsa på?",
+    "text": "Urval av projekt: vilka projekt ska vi satsa på?\n\nVissa projektförslag ”blir” projekt utan att passera alla faser i urvalsprocessen\n\nStrategiskt viktiga projekt\n\n(direkt koppling till organisationens affärsidé, målsättningar och strategier)\n\nAkuta eller nödvändiga för organisationen, t.ex.\ninvesteringar vid haverier"
+  },
+  {
+    "objectID": "2026-03-02_organisation.html#urval-av-projekt-vilka-projekt-ska-vi-satsa-på-1",
+    "href": "2026-03-02_organisation.html#urval-av-projekt-vilka-projekt-ska-vi-satsa-på-1",
+    "title": "Projekt som organisationsform",
+    "section": "Urval av projekt: vilka projekt ska vi satsa på?",
+    "text": "Urval av projekt: vilka projekt ska vi satsa på?\n\nKoppling till organisationens affärsidé, mål och strategi\nKriterier som:\n\nfinansiering\nflexibilitet\nkostnader\nenkel att använda\nenkel att datorisera"
+  },
+  {
+    "objectID": "2026-03-02_organisation.html#definitionsfas---om-det-blir-avslutas-med-en",
+    "href": "2026-03-02_organisation.html#definitionsfas---om-det-blir-avslutas-med-en",
+    "title": "Projekt som organisationsform",
+    "section": "Definitionsfas - om det ”blir” avslutas med en",
+    "text": "Definitionsfas - om det ”blir” avslutas med en\n\nbeställning/kontrakt\nChecklista\nProjektmål\nLeveranser\nMilstolpar och beslutspunkter\nTekniska krav\nBegräsningar och vad som ska utelämnas\nAvstämning med kunden och andra intressenter"
+  },
+  {
+    "objectID": "2026-03-02_organisation.html#projektledning",
+    "href": "2026-03-02_organisation.html#projektledning",
+    "title": "Projekt som organisationsform",
+    "section": "Projektledning",
+    "text": "Projektledning\n\n\n\nLeda och styra projekt\n\nprestations- och resultatorientering\n\nIntegrera projekt med\n\nOrganisationens affärsidé, mål och strategi samt pågående processer som produktion och försäljning\nAndra projekt\n\n\n\n\nProjektledningens två dimensioner:\n\nteknisk, sociokulturell\n\nFokus på projektresultat och projektets livscykel\n\nFastställa prioriteringsordning bland projektets styrparametrar (projekt triangeln): Tid, Kostnad och Kvalitet"
+  },
+  {
+    "objectID": "2026-03-02_organisation.html#projekttriangeln",
+    "href": "2026-03-02_organisation.html#projekttriangeln",
+    "title": "Projekt som organisationsform",
+    "section": "Projekttriangeln",
+    "text": "Projekttriangeln\n\n  \n  \n\n  \n  Tid\n  Kostnad\n  Kvalitet\n\n  \n  Omfattning\n\n\n“Välj två.”"
+  },
+  {
+    "objectID": "2026-03-02_organisation.html#projektledning-hänsyn-till",
+    "href": "2026-03-02_organisation.html#projektledning-hänsyn-till",
+    "title": "Projekt som organisationsform",
+    "section": "Projektledning – Hänsyn till",
+    "text": "Projektledning – Hänsyn till\n\n\n\nDefinitionsaspekter exempelvis\n\nBeställare\nTyp av projekt\nUtvärdering\n\n\n\n\nProcessaspekter, exempelvis\n\nProjektledare\nProjektgruppen\nProjektkommunikation\nProjektets kvalitetssäkring"
+  },
+  {
+    "objectID": "2026-03-02_organisation.html#projektledning---utmaningar",
+    "href": "2026-03-02_organisation.html#projektledning---utmaningar",
+    "title": "Projekt som organisationsform",
+    "section": "Projektledning - utmaningar",
+    "text": "Projektledning - utmaningar\n\nImplementeringsproblem\nFörstå och koordinera aktörer på olika nivåer (externa som interna):\n\nolika verklighetsbilder, kunskaper, mål etc.\nOrganisationspolicy\nIntresse, konflikter, maktförhållande\nResurskonflikter och ”arbeta med flera uppgifter parallellt”\nGemensamma resurser leder till att individer arbetar med flera uppgifter parallellt"
+  },
+  {
+    "objectID": "2026-03-02_organisation.html#projektledning---varför-misslyckas-projekt",
+    "href": "2026-03-02_organisation.html#projektledning---varför-misslyckas-projekt",
+    "title": "Projekt som organisationsform",
+    "section": "Projektledning - Varför misslyckas projekt?",
+    "text": "Projektledning - Varför misslyckas projekt?\n\nInte alla projektidéer borde ha blivit projekt\n\n”Dold agenda”\nUtfallet för tids-, kostnads- och kvalitetsspecifikationer avviker ofta från budgeterande värde\nOlika orsaker till misslyckande"
+  },
+  {
+    "objectID": "2026-03-02_organisation.html#projektledning-mångfald-och-genus",
+    "href": "2026-03-02_organisation.html#projektledning-mångfald-och-genus",
+    "title": "Projekt som organisationsform",
+    "section": "Projektledning – mångfald och genus",
+    "text": "Projektledning – mångfald och genus\n\nProjekt som pluralistisk organisation\nMångfald avser individers egenskaper som formar deras identitet och erfarenheter i samhället\nMed mångfald syftas ofta till etnicitet, med det kan syftas även till ålder, genus, religion, etc.\nHofstede:\n\n\n\n\nMaktdistans\nIndividualism\n\n\n\nMaskulinitet,\nUndvikande av osäkerhet"
+  },
+  {
+    "objectID": "2026-03-02_organisation.html#projektledning-genus",
+    "href": "2026-03-02_organisation.html#projektledning-genus",
+    "title": "Projekt som organisationsform",
+    "section": "Projektledning – genus",
+    "text": "Projektledning – genus\n\nStereotyper\n\nManlig, exempelvis rationell, aggressiv, strategisk\nKvinnlig, exempelvis intuitiv, rationell och samarbetsinriktad\n\nSkillnad mellan\n\nKön, det biologiska könet\nGenus, social konstruktion där det sociala sammanhanget påverkar en individs genusutveckling (manlig eller kvinnlig)"
+  },
+  {
+    "objectID": "2026-03-02_organisation.html#projektledning-genus---två-perspektiv",
+    "href": "2026-03-02_organisation.html#projektledning-genus---två-perspektiv",
+    "title": "Projekt som organisationsform",
+    "section": "Projektledning – genus - Två perspektiv",
+    "text": "Projektledning – genus - Två perspektiv\n\n\n\nStrukturalistiskt:\n\nvilka möjligheter t.ex. i projekthierarkin,\nvilken makt t.ex. beslutsfattande,\ni vilken frekvens t.ex. assimilering, har resp. kön i ett projekt?\n\n\n\n\nProcess: Hur,\n\ngenom organisering t.ex. rekrytering,\ngenom framställning t.ex. vem får beröm,\ngenom möte t.ex. hierarkisk position vem frågar vad,\ngenom självproduktion tex. man agerar det passar,\nutrycks olika könsroller?"
+  },
+  {
+    "objectID": "2026-03-02_organisation.html#projektutvärdering",
+    "href": "2026-03-02_organisation.html#projektutvärdering",
+    "title": "Projekt som organisationsform",
+    "section": "Projektutvärdering",
+    "text": "Projektutvärdering\n\n\n\nUtvärdering\nHistoriskt perspektiv\nFramtidsinriktat perspektiv\n\n\nav projektresultatet\ni förhållande till uppdraget och till kravspecifikationer\nkonkurrensfördelar marknadsposition\n\n\nav projektprocessen\ni förhållande till planer och budget\nkompetensutveckling kvalitetssäkring\n\n\n\n\nKom ihåg:\n\nProjektledaren ansvarar för projektmålet\nBeställare ansvarar för effektmålet\nProjektmål och effektmål hänger samman, viktigt att rätt projekt har implementerats"
+  },
+  {
+    "objectID": "2026-03-02_organisation.html#projektutvärdering-ska-relateras-till-osäkerhet",
+    "href": "2026-03-02_organisation.html#projektutvärdering-ska-relateras-till-osäkerhet",
+    "title": "Projekt som organisationsform",
+    "section": "Projektutvärdering ska relateras till osäkerhet",
+    "text": "Projektutvärdering ska relateras till osäkerhet\nTvå typer av osäkerhet\n\n\n\nKontextuell osäkerhet:\nprojektets resultat högst sannolikt utvärderas utifrån andra kunskaper och på andra premisser än det baserades på\n\n\n\nOperationell osäkerhet:\nrelaterar till projektets genomförande och sammanhänger med gapet mellan nödvändig information och tillgänglig information"
+  },
+  {
+    "objectID": "2026-03-02_organisation.html#projektutvärdering-1",
+    "href": "2026-03-02_organisation.html#projektutvärdering-1",
+    "title": "Projekt som organisationsform",
+    "section": "Projektutvärdering",
+    "text": "Projektutvärdering\n\nIndividuell utvärdering\nUtvärdering av projektgruppen\nUtvärdering av projektledare\nIndividuellt lärande\n\nerfarenhetskunskap\ntyst kunskap"
+  },
+  {
+    "objectID": "2026-03-02_organisation.html#section",
+    "href": "2026-03-02_organisation.html#section",
+    "title": "Projekt som organisationsform",
+    "section": "",
+    "text": "Erkännande\nDetta material är anpassat från en föreläsning av Nikos Macheridis, Ekonomihögskolan, Lunds universitet, 2025."
   }
 ]
